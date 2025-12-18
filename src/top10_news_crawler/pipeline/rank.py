@@ -16,6 +16,24 @@ def _cluster_score(cluster: Dict[str, Any], weight_map: Dict[str, float]) -> flo
     wsum = sum(_item_weight(x, weight_map) for x in cluster["items"])
     return len(sources) * 10.0 + wsum
 
+def relevance_score(item: Dict) -> int:
+    text = (item.get("title", "") + item.get("summary", "")).lower()
+    score = 0
+
+    for k in SEMICONDUCTOR_KEYWORDS:
+        if k in text:
+            score += 3
+
+    for k in AI_KEYWORDS:
+        if k in text:
+            score += 2
+
+    for k in TECH_KEYWORDS:
+        if k in text:
+            score += 1
+
+    return score
+
 
 def rank_top(
     items: List[Dict[str, Any]],

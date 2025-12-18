@@ -1,189 +1,92 @@
 [
   {
-    "title": "Tell us your favourite film of 2025",
-    "score": 12.0,
+    "title": "Fake Minns, altered images and psyop theories: Bondi attack misinformation shows AI’s power to confuse",
+    "score": 11.0,
+    "sources": [
+      "The Guardian - World"
+    ],
+    "url": "https://www.theguardian.com/australia-news/2025/dec/18/fake-minns-altered-images-and-psyop-theories-bondi-attack-misinformation-shows-ais-power-to-confuse-ntwnfb",
+    "items": [
+      {
+        "source_id": "guardian_world",
+        "source_name": "The Guardian - World",
+        "title": "Fake Minns, altered images and psyop theories: Bondi attack misinformation shows AI’s power to confuse",
+        "url": "https://www.theguardian.com/australia-news/2025/dec/18/fake-minns-altered-images-and-psyop-theories-bondi-attack-misinformation-shows-ais-power-to-confuse-ntwnfb",
+        "published_at": "Thu, 18 Dec 2025 07:17:42 GMT"
+      }
+    ],
+    "title_zh": "假明鏡,改變的影象和精神理論:邦迪攻擊錯誤資訊顯示AI混淆的力量"
+  },
+  {
+    "title": "Third of UK citizens have used AI for emotional support, research reveals",
+    "score": 11.0,
+    "sources": [
+      "The Guardian - World"
+    ],
+    "url": "https://www.theguardian.com/technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research",
+    "items": [
+      {
+        "source_id": "guardian_world",
+        "source_name": "The Guardian - World",
+        "title": "Third of UK citizens have used AI for emotional support, research reveals",
+        "url": "https://www.theguardian.com/technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research",
+        "published_at": "Thu, 18 Dec 2025 09:00:31 GMT"
+      }
+    ],
+    "title_zh": "第三個英國公民使用人工智慧提供情感支援,"
+  },
+  {
+    "title": "Thursday news quiz: AI mishaps, fan fury and a tiny baby hippo",
+    "score": 11.0,
+    "sources": [
+      "The Guardian - World"
+    ],
+    "url": "https://www.theguardian.com/lifeandstyle/2025/dec/18/guardian-thursday-quiz-general-knowledge-topical-news-trivia-228",
+    "items": [
+      {
+        "source_id": "guardian_world",
+        "source_name": "The Guardian - World",
+        "title": "Thursday news quiz: AI mishaps, fan fury and a tiny baby hippo",
+        "url": "https://www.theguardian.com/lifeandstyle/2025/dec/18/guardian-thursday-quiz-general-knowledge-topical-news-trivia-228",
+        "published_at": "Thu, 18 Dec 2025 06:30:28 GMT"
+      }
+    ],
+    "title_zh": "週四新聞問答:AI不幸,粉絲憤怒和一隻小河馬"
+  },
+  {
+    "title": "How to use the holidays to stop our ‘WhatsApp aunties’ falling for AI",
+    "score": 11.0,
     "sources": [
       "The Guardian - International"
     ],
-    "url": "https://www.theguardian.com/film/2025/dec/16/tell-us-your-favourite-film-of-2025",
+    "url": "https://www.theguardian.com/news/2025/dec/17/how-to-use-the-holidays-to-stop-our-whatsapp-aunties-from-becoming-ai-aunties",
     "items": [
       {
         "source_id": "guardian_international",
         "source_name": "The Guardian - International",
-        "title": "Tell us your favourite film of 2025",
-        "url": "https://www.theguardian.com/film/2025/dec/16/tell-us-your-favourite-film-of-2025",
-        "published_at": "Tue, 16 Dec 2025 10:45:32 GMT"
-      },
-      {
-        "source_id": "guardian_international",
-        "source_name": "The Guardian - International",
-        "title": "Tell us your favourite TV shows of 2025",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/dec/16/tell-us-your-favourite-tv-shows-of-2025",
-        "published_at": "Tue, 16 Dec 2025 10:46:41 GMT"
+        "title": "How to use the holidays to stop our ‘WhatsApp aunties’ falling for AI",
+        "url": "https://www.theguardian.com/news/2025/dec/17/how-to-use-the-holidays-to-stop-our-whatsapp-aunties-from-becoming-ai-aunties",
+        "published_at": "Wed, 17 Dec 2025 13:02:59 GMT"
       }
     ],
-    "title_zh": "告訴我們你最喜歡的2025年電影"
+    "title_zh": "如何利用假期來阻止我們“什麼App姑媽”愛上AI。"
   },
   {
-    "title": "'Maybe she's an angel now' says aunt of Bondi victim, 10, at funeral",
+    "title": "Can India catch up with the US, Taiwan and China in the global chip race?",
     "score": 11.0,
     "sources": [
-      "BBC World"
+      "Al Jazeera - All"
     ],
-    "url": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.aljazeera.com/economy/2025/12/18/can-india-catch-up-with-the-us-taiwan-and-china-in-the-global-chip-race?traffic_source=rss",
     "items": [
       {
-        "source_id": "bbc_world",
-        "source_name": "BBC World",
-        "title": "'Maybe she's an angel now' says aunt of Bondi victim, 10, at funeral",
-        "url": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "Thu, 18 Dec 2025 08:29:56 GMT"
+        "source_id": "aljazeera_all",
+        "source_name": "Al Jazeera - All",
+        "title": "Can India catch up with the US, Taiwan and China in the global chip race?",
+        "url": "https://www.aljazeera.com/economy/2025/12/18/can-india-catch-up-with-the-us-taiwan-and-china-in-the-global-chip-race?traffic_source=rss",
+        "published_at": "Thu, 18 Dec 2025 02:22:07 +0000"
       }
     ],
-    "title_zh": "也許她現在是個天使了 邦迪的姑姑說 10歲 在葬禮上"
-  },
-  {
-    "title": "Australian PM announces crackdown on hate speech after Bondi shooting",
-    "score": 11.0,
-    "sources": [
-      "BBC World"
-    ],
-    "url": "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc_world",
-        "source_name": "BBC World",
-        "title": "Australian PM announces crackdown on hate speech after Bondi shooting",
-        "url": "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss",
-        "published_at": "Thu, 18 Dec 2025 09:18:25 GMT"
-      }
-    ],
-    "title_zh": "澳洲總理宣佈鎮壓邦迪槍擊後的仇恨言論。"
-  },
-  {
-    "title": "EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
-    "score": 11.0,
-    "sources": [
-      "BBC World"
-    ],
-    "url": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc_world",
-        "source_name": "BBC World",
-        "title": "EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
-        "url": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
-        "published_at": "Thu, 18 Dec 2025 08:30:16 GMT"
-      }
-    ],
-    "title_zh": "歐盟領導人面臨將俄羅斯凍結的現金借給烏克蘭的緊縮決定"
-  },
-  {
-    "title": "French anaesthetist who poisoned 12 patients to death jailed for life",
-    "score": 11.0,
-    "sources": [
-      "BBC World"
-    ],
-    "url": "https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc_world",
-        "source_name": "BBC World",
-        "title": "French anaesthetist who poisoned 12 patients to death jailed for life",
-        "url": "https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "Thu, 18 Dec 2025 09:10:04 GMT"
-      }
-    ],
-    "title_zh": "法國麻醉師毒死12名病人 終身監禁"
-  },
-  {
-    "title": "Rob Reiner's family breaks silence as son Nick faces judge on murder charges",
-    "score": 11.0,
-    "sources": [
-      "BBC World"
-    ],
-    "url": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc_world",
-        "source_name": "BBC World",
-        "title": "Rob Reiner's family breaks silence as son Nick faces judge on murder charges",
-        "url": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "Wed, 17 Dec 2025 22:45:06 GMT"
-      }
-    ],
-    "title_zh": "Rob Reiner的家人首度發聲 兒子Nick面對謀殺指控的法官"
-  },
-  {
-    "title": "Watch: Moment Nick Reiner is arrested after being seen in convenience store",
-    "score": 11.0,
-    "sources": [
-      "BBC World"
-    ],
-    "url": "https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc_world",
-        "source_name": "BBC World",
-        "title": "Watch: Moment Nick Reiner is arrested after being seen in convenience store",
-        "url": "https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS&at_campaign=rss",
-        "published_at": "Wed, 17 Dec 2025 22:35:43 GMT"
-      }
-    ],
-    "title_zh": "注意: 在便利店裡看到Nick Reiner後被捕了"
-  },
-  {
-    "title": "Dan Bongino stepping down as FBI deputy director",
-    "score": 11.0,
-    "sources": [
-      "BBC World"
-    ],
-    "url": "https://www.bbc.com/news/articles/cvgj0p5yl92o?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc_world",
-        "source_name": "BBC World",
-        "title": "Dan Bongino stepping down as FBI deputy director",
-        "url": "https://www.bbc.com/news/articles/cvgj0p5yl92o?at_medium=RSS&at_campaign=rss",
-        "published_at": "Thu, 18 Dec 2025 01:02:40 GMT"
-      }
-    ],
-    "title_zh": "丹邦吉諾辭去聯邦調查局副局長"
-  },
-  {
-    "title": "Venezuela denounces Trump's order for ship blockade as 'warmongering threats'",
-    "score": 11.0,
-    "sources": [
-      "BBC World"
-    ],
-    "url": "https://www.bbc.com/news/articles/c4gej5ezyypo?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc_world",
-        "source_name": "BBC World",
-        "title": "Venezuela denounces Trump's order for ship blockade as 'warmongering threats'",
-        "url": "https://www.bbc.com/news/articles/c4gej5ezyypo?at_medium=RSS&at_campaign=rss",
-        "published_at": "Thu, 18 Dec 2025 04:02:03 GMT"
-      }
-    ],
-    "title_zh": "委內瑞拉譴責川普下令封鎖船隻,"
-  },
-  {
-    "title": "Heavy rains worsen conditions for displaced Gazans, UN warns",
-    "score": 11.0,
-    "sources": [
-      "BBC World"
-    ],
-    "url": "https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc_world",
-        "source_name": "BBC World",
-        "title": "Heavy rains worsen conditions for displaced Gazans, UN warns",
-        "url": "https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "Wed, 17 Dec 2025 20:45:22 GMT"
-      }
-    ],
-    "title_zh": "聯合國警告說,"
+    "title_zh": "印度能否在全球晶片賽上趕上美國,臺灣和中國?."
   }
 ]

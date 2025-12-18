@@ -1,51 +1,26 @@
 # Top 10 News
 
-1. **Tell us your favourite film of 2025**
-   - TW：告訴我們你最喜歡的2025年電影
+1. **Fake Minns, altered images and psyop theories: Bondi attack misinformation shows AI’s power to confuse**
+   - TW：假明鏡,改變的影象和精神理論:邦迪攻擊錯誤資訊顯示AI混淆的力量
+   - 來源數: 1
+   - 來源: The Guardian - World
+
+2. **Third of UK citizens have used AI for emotional support, research reveals**
+   - TW：第三個英國公民使用人工智慧提供情感支援,
+   - 來源數: 1
+   - 來源: The Guardian - World
+
+3. **Thursday news quiz: AI mishaps, fan fury and a tiny baby hippo**
+   - TW：週四新聞問答:AI不幸,粉絲憤怒和一隻小河馬
+   - 來源數: 1
+   - 來源: The Guardian - World
+
+4. **How to use the holidays to stop our ‘WhatsApp aunties’ falling for AI**
+   - TW：如何利用假期來阻止我們“什麼App姑媽”愛上AI。
    - 來源數: 1
    - 來源: The Guardian - International
 
-2. **'Maybe she's an angel now' says aunt of Bondi victim, 10, at funeral**
-   - TW：也許她現在是個天使了 邦迪的姑姑說 10歲 在葬禮上
+5. **Can India catch up with the US, Taiwan and China in the global chip race?**
+   - TW：印度能否在全球晶片賽上趕上美國,臺灣和中國?.
    - 來源數: 1
-   - 來源: BBC World
-
-3. **Australian PM announces crackdown on hate speech after Bondi shooting**
-   - TW：澳洲總理宣佈鎮壓邦迪槍擊後的仇恨言論。
-   - 來源數: 1
-   - 來源: BBC World
-
-4. **EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine**
-   - TW：歐盟領導人面臨將俄羅斯凍結的現金借給烏克蘭的緊縮決定
-   - 來源數: 1
-   - 來源: BBC World
-
-5. **French anaesthetist who poisoned 12 patients to death jailed for life**
-   - TW：法國麻醉師毒死12名病人 終身監禁
-   - 來源數: 1
-   - 來源: BBC World
-
-6. **Rob Reiner's family breaks silence as son Nick faces judge on murder charges**
-   - TW：Rob Reiner的家人首度發聲 兒子Nick面對謀殺指控的法官
-   - 來源數: 1
-   - 來源: BBC World
-
-7. **Watch: Moment Nick Reiner is arrested after being seen in convenience store**
-   - TW：注意: 在便利店裡看到Nick Reiner後被捕了
-   - 來源數: 1
-   - 來源: BBC World
-
-8. **Dan Bongino stepping down as FBI deputy director**
-   - TW：丹邦吉諾辭去聯邦調查局副局長
-   - 來源數: 1
-   - 來源: BBC World
-
-9. **Venezuela denounces Trump's order for ship blockade as 'warmongering threats'**
-   - TW：委內瑞拉譴責川普下令封鎖船隻,
-   - 來源數: 1
-   - 來源: BBC World
-
-10. **Heavy rains worsen conditions for displaced Gazans, UN warns**
-   - TW：聯合國警告說,
-   - 來源數: 1
-   - 來源: BBC World
+   - 來源: Al Jazeera - All

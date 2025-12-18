@@ -10,6 +10,7 @@ from top10_news_crawler.pipeline.rank import rank_top
 from top10_news_crawler.pipeline.export import export_md
 from top10_news_crawler.pipeline.parse import load_sources_config
 from top10_news_crawler.pipeline.translate import translate_titles_zh_tw
+from top10_news_crawler.pipeline.filter import pick_with_fill
 
 
 def cli() -> None:
@@ -22,9 +23,17 @@ def cli() -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
 
     sources = load_sources_config()
+
     items = fetch_all(sources)
     items = dedup_items(items)
-    top_items = rank_top(items, sources, top_k=args.top)
+
+    # ✅ 先挑候選（不足會用次相關補滿到 top）
+    candidates = pick_with_fill(items, top=args.top)
+
+    # ✅ 再排序（依你 rank.py 的邏輯）
+    top_items = rank_top(candidates, args.top)
+
+    # ✅ 翻譯（TW）
     top_items = translate_titles_zh_tw(top_items)
 
     (out_dir / "top10.json").write_text(
@@ -35,6 +44,7 @@ def cli() -> None:
 
     print(f"✅ Wrote: {out_dir / 'top10.json'}")
     print(f"✅ Wrote: {out_dir / 'top10.md'}")
+    print("after fetch:", len(items), "after pick:", len(candidates))
 
 
 if __name__ == "__main__":
