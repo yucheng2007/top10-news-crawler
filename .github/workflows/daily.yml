@@ -30,6 +30,25 @@ jobs:
         run: |
           python -m top10_news_crawler.main --top 10
 
+      - name: Update README
+        run: |
+          python scripts/update_readme.py
+
+      - name: Commit & push README + outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add README.md outputs/top10.md outputs/top10.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update daily top10 in README"
+          git push
+
       - name: Upload outputs as artifact
         uses: actions/upload-artifact@v4
         with:

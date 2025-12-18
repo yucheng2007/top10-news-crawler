@@ -1,31 +1,5 @@
 [
   {
-    "title": "Antony Price, designer for Bowie and Duran Duran, dies at 80",
-    "score": 22.0,
-    "sources": [
-      "BBC Top Stories",
-      "The Guardian - International"
-    ],
-    "url": "https://www.bbc.com/news/articles/c8xd7wr1vj9o?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc_top",
-        "source_name": "BBC Top Stories",
-        "title": "Antony Price, designer for Bowie and Duran Duran, dies at 80",
-        "url": "https://www.bbc.com/news/articles/c8xd7wr1vj9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "Thu, 18 Dec 2025 04:45:14 GMT"
-      },
-      {
-        "source_id": "guardian_international",
-        "source_name": "The Guardian - International",
-        "title": "Antony Price, ultra-glam designer for Duran Duran, Bowie and Roxy Music, dies aged 80",
-        "url": "https://www.theguardian.com/fashion/2025/dec/17/anthony-price-roxy-music-queen-camilla-mick-jagger-designer",
-        "published_at": "Wed, 17 Dec 2025 18:03:57 GMT"
-      }
-    ],
-    "title_zh": "安東尼·普萊斯 鮑伊和杜蘭·杜蘭的設計師 80歲時去世"
-  },
-  {
     "title": "Tell us your favourite film of 2025",
     "score": 12.0,
     "sources": [
@@ -81,7 +55,7 @@
         "source_name": "BBC World",
         "title": "Australian PM announces crackdown on hate speech after Bondi shooting",
         "url": "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss",
-        "published_at": "Thu, 18 Dec 2025 02:47:07 GMT"
+        "published_at": "Thu, 18 Dec 2025 09:18:25 GMT"
       }
     ],
     "title_zh": "澳洲總理宣佈鎮壓邦迪槍擊後的仇恨言論。"
@@ -103,6 +77,24 @@
       }
     ],
     "title_zh": "歐盟領導人面臨將俄羅斯凍結的現金借給烏克蘭的緊縮決定"
+  },
+  {
+    "title": "French anaesthetist who poisoned 12 patients to death jailed for life",
+    "score": 11.0,
+    "sources": [
+      "BBC World"
+    ],
+    "url": "https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS&at_campaign=rss",
+    "items": [
+      {
+        "source_id": "bbc_world",
+        "source_name": "BBC World",
+        "title": "French anaesthetist who poisoned 12 patients to death jailed for life",
+        "url": "https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "Thu, 18 Dec 2025 09:10:04 GMT"
+      }
+    ],
+    "title_zh": "法國麻醉師毒死12名病人 終身監禁"
   },
   {
     "title": "Rob Reiner's family breaks silence as son Nick faces judge on murder charges",
