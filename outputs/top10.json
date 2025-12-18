@@ -1,6 +1,57 @@
 [
   {
-    "title": "'Maybe she's an angel now' says aunt of 10-year-old Bondi victim",
+    "title": "Antony Price, designer for Bowie and Duran Duran, dies at 80",
+    "score": 22.0,
+    "sources": [
+      "BBC Top Stories",
+      "The Guardian - International"
+    ],
+    "url": "https://www.bbc.com/news/articles/c8xd7wr1vj9o?at_medium=RSS&at_campaign=rss",
+    "items": [
+      {
+        "source_id": "bbc_top",
+        "source_name": "BBC Top Stories",
+        "title": "Antony Price, designer for Bowie and Duran Duran, dies at 80",
+        "url": "https://www.bbc.com/news/articles/c8xd7wr1vj9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "Thu, 18 Dec 2025 04:45:14 GMT"
+      },
+      {
+        "source_id": "guardian_international",
+        "source_name": "The Guardian - International",
+        "title": "Antony Price, ultra-glam designer for Duran Duran, Bowie and Roxy Music, dies aged 80",
+        "url": "https://www.theguardian.com/fashion/2025/dec/17/anthony-price-roxy-music-queen-camilla-mick-jagger-designer",
+        "published_at": "Wed, 17 Dec 2025 18:03:57 GMT"
+      }
+    ],
+    "title_zh": "安東尼·普萊斯 鮑伊和杜蘭·杜蘭的設計師 80歲時去世"
+  },
+  {
+    "title": "Tell us your favourite film of 2025",
+    "score": 12.0,
+    "sources": [
+      "The Guardian - International"
+    ],
+    "url": "https://www.theguardian.com/film/2025/dec/16/tell-us-your-favourite-film-of-2025",
+    "items": [
+      {
+        "source_id": "guardian_international",
+        "source_name": "The Guardian - International",
+        "title": "Tell us your favourite film of 2025",
+        "url": "https://www.theguardian.com/film/2025/dec/16/tell-us-your-favourite-film-of-2025",
+        "published_at": "Tue, 16 Dec 2025 10:45:32 GMT"
+      },
+      {
+        "source_id": "guardian_international",
+        "source_name": "The Guardian - International",
+        "title": "Tell us your favourite TV shows of 2025",
+        "url": "https://www.theguardian.com/tv-and-radio/2025/dec/16/tell-us-your-favourite-tv-shows-of-2025",
+        "published_at": "Tue, 16 Dec 2025 10:46:41 GMT"
+      }
+    ],
+    "title_zh": "告訴我們你最喜歡的2025年電影"
+  },
+  {
+    "title": "'Maybe she's an angel now' says aunt of Bondi victim, 10, at funeral",
     "score": 11.0,
     "sources": [
       "BBC World"
@@ -8,13 +59,14 @@
     "url": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss",
     "items": [
       {
-        "source_id": "bbc",
+        "source_id": "bbc_world",
         "source_name": "BBC World",
-        "title": "'Maybe she's an angel now' says aunt of 10-year-old Bondi victim",
+        "title": "'Maybe she's an angel now' says aunt of Bondi victim, 10, at funeral",
         "url": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "Thu, 18 Dec 2025 04:15:30 GMT"
+        "published_at": "Thu, 18 Dec 2025 08:29:56 GMT"
       }
-    ]
+    ],
+    "title_zh": "也許她現在是個天使了 邦迪的姑姑說 10歲 在葬禮上"
   },
   {
     "title": "Australian PM announces crackdown on hate speech after Bondi shooting",
@@ -25,47 +77,14 @@
     "url": "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss",
     "items": [
       {
-        "source_id": "bbc",
+        "source_id": "bbc_world",
         "source_name": "BBC World",
         "title": "Australian PM announces crackdown on hate speech after Bondi shooting",
         "url": "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss",
         "published_at": "Thu, 18 Dec 2025 02:47:07 GMT"
       }
-    ]
-  },
-  {
-    "title": "Rob Reiner's family breaks silence as son Nick faces judge on murder charges",
-    "score": 11.0,
-    "sources": [
-      "BBC World"
     ],
-    "url": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc",
-        "source_name": "BBC World",
-        "title": "Rob Reiner's family breaks silence as son Nick faces judge on murder charges",
-        "url": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "Wed, 17 Dec 2025 22:45:06 GMT"
-      }
-    ]
-  },
-  {
-    "title": "Watch: Moment Nick Reiner is arrested after being seen in convenience store",
-    "score": 11.0,
-    "sources": [
-      "BBC World"
-    ],
-    "url": "https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc",
-        "source_name": "BBC World",
-        "title": "Watch: Moment Nick Reiner is arrested after being seen in convenience store",
-        "url": "https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS&at_campaign=rss",
-        "published_at": "Wed, 17 Dec 2025 22:35:43 GMT"
-      }
-    ]
+    "title_zh": "澳洲總理宣佈鎮壓邦迪槍擊後的仇恨言論。"
   },
   {
     "title": "EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
@@ -76,13 +95,50 @@
     "url": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
     "items": [
       {
-        "source_id": "bbc",
+        "source_id": "bbc_world",
         "source_name": "BBC World",
         "title": "EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
         "url": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
-        "published_at": "Thu, 18 Dec 2025 00:43:59 GMT"
+        "published_at": "Thu, 18 Dec 2025 08:30:16 GMT"
       }
-    ]
+    ],
+    "title_zh": "歐盟領導人面臨將俄羅斯凍結的現金借給烏克蘭的緊縮決定"
+  },
+  {
+    "title": "Rob Reiner's family breaks silence as son Nick faces judge on murder charges",
+    "score": 11.0,
+    "sources": [
+      "BBC World"
+    ],
+    "url": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss",
+    "items": [
+      {
+        "source_id": "bbc_world",
+        "source_name": "BBC World",
+        "title": "Rob Reiner's family breaks silence as son Nick faces judge on murder charges",
+        "url": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "Wed, 17 Dec 2025 22:45:06 GMT"
+      }
+    ],
+    "title_zh": "Rob Reiner的家人首度發聲 兒子Nick面對謀殺指控的法官"
+  },
+  {
+    "title": "Watch: Moment Nick Reiner is arrested after being seen in convenience store",
+    "score": 11.0,
+    "sources": [
+      "BBC World"
+    ],
+    "url": "https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS&at_campaign=rss",
+    "items": [
+      {
+        "source_id": "bbc_world",
+        "source_name": "BBC World",
+        "title": "Watch: Moment Nick Reiner is arrested after being seen in convenience store",
+        "url": "https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS&at_campaign=rss",
+        "published_at": "Wed, 17 Dec 2025 22:35:43 GMT"
+      }
+    ],
+    "title_zh": "注意: 在便利店裡看到Nick Reiner後被捕了"
   },
   {
     "title": "Dan Bongino stepping down as FBI deputy director",
@@ -93,47 +149,14 @@
     "url": "https://www.bbc.com/news/articles/cvgj0p5yl92o?at_medium=RSS&at_campaign=rss",
     "items": [
       {
-        "source_id": "bbc",
+        "source_id": "bbc_world",
         "source_name": "BBC World",
         "title": "Dan Bongino stepping down as FBI deputy director",
         "url": "https://www.bbc.com/news/articles/cvgj0p5yl92o?at_medium=RSS&at_campaign=rss",
         "published_at": "Thu, 18 Dec 2025 01:02:40 GMT"
       }
-    ]
-  },
-  {
-    "title": "Heavy rains worsen conditions for displaced Gazans, UN warns",
-    "score": 11.0,
-    "sources": [
-      "BBC World"
     ],
-    "url": "https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc",
-        "source_name": "BBC World",
-        "title": "Heavy rains worsen conditions for displaced Gazans, UN warns",
-        "url": "https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "Wed, 17 Dec 2025 20:45:22 GMT"
-      }
-    ]
-  },
-  {
-    "title": "The Oscars to leave ABC and stream on YouTube starting in 2029",
-    "score": 11.0,
-    "sources": [
-      "BBC World"
-    ],
-    "url": "https://www.bbc.com/news/articles/c1kpr0dg130o?at_medium=RSS&at_campaign=rss",
-    "items": [
-      {
-        "source_id": "bbc",
-        "source_name": "BBC World",
-        "title": "The Oscars to leave ABC and stream on YouTube starting in 2029",
-        "url": "https://www.bbc.com/news/articles/c1kpr0dg130o?at_medium=RSS&at_campaign=rss",
-        "published_at": "Wed, 17 Dec 2025 19:30:14 GMT"
-      }
-    ]
+    "title_zh": "丹邦吉諾辭去聯邦調查局副局長"
   },
   {
     "title": "Venezuela denounces Trump's order for ship blockade as 'warmongering threats'",
@@ -144,29 +167,31 @@
     "url": "https://www.bbc.com/news/articles/c4gej5ezyypo?at_medium=RSS&at_campaign=rss",
     "items": [
       {
-        "source_id": "bbc",
+        "source_id": "bbc_world",
         "source_name": "BBC World",
         "title": "Venezuela denounces Trump's order for ship blockade as 'warmongering threats'",
         "url": "https://www.bbc.com/news/articles/c4gej5ezyypo?at_medium=RSS&at_campaign=rss",
         "published_at": "Thu, 18 Dec 2025 04:02:03 GMT"
       }
-    ]
+    ],
+    "title_zh": "委內瑞拉譴責川普下令封鎖船隻,"
   },
   {
-    "title": "Nato spending pledge is Trump's biggest foreign policy success, Rutte tells BBC",
+    "title": "Heavy rains worsen conditions for displaced Gazans, UN warns",
     "score": 11.0,
     "sources": [
       "BBC World"
     ],
-    "url": "https://www.bbc.com/news/articles/cx2p4vw595jo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss",
     "items": [
       {
-        "source_id": "bbc",
+        "source_id": "bbc_world",
         "source_name": "BBC World",
-        "title": "Nato spending pledge is Trump's biggest foreign policy success, Rutte tells BBC",
-        "url": "https://www.bbc.com/news/articles/cx2p4vw595jo?at_medium=RSS&at_campaign=rss",
-        "published_at": "Wed, 17 Dec 2025 15:25:58 GMT"
+        "title": "Heavy rains worsen conditions for displaced Gazans, UN warns",
+        "url": "https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "Wed, 17 Dec 2025 20:45:22 GMT"
       }
-    ]
+    ],
+    "title_zh": "聯合國警告說,"
   }
 ]
