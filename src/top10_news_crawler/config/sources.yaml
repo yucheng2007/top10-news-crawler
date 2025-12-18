@@ -1,0 +1,30 @@
+sources:
+  - id: bbc_world
+    name: BBC World
+    weight: 1.0
+    rss: "http://feeds.bbci.co.uk/news/world/rss.xml"
+
+  - id: bbc_top
+    name: BBC Top Stories
+    weight: 1.0
+    rss: "http://feeds.bbci.co.uk/news/rss.xml"
+
+  - id: guardian_world
+    name: The Guardian - World
+    weight: 1.0
+    rss: "https://www.theguardian.com/world/rss"
+
+  - id: guardian_international
+    name: The Guardian - International
+    weight: 1.0
+    rss: "https://www.theguardian.com/international/rss"
+
+  - id: aljazeera_all
+    name: Al Jazeera - All
+    weight: 1.0
+    rss: "https://www.aljazeera.com/xml/rss/all.xml"
+
+  - id: npr_news
+    name: NPR - News
+    weight: 0.9
+    rss: "https://feeds.npr.org/1001/rss.xml"
