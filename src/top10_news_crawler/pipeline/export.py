@@ -7,6 +7,8 @@ def export_md(clusters: List[Dict[str, Any]]) -> str:
     lines = ["# Top 10 News\n"]
     for i, c in enumerate(clusters, 1):
         lines.append(f"{i}. **{c['title']}**  ")
+        if title_zh:
+            lines.append(f"   - 🇹🇼 {title_zh}")
         if c.get("url"):
             lines.append(f"   - 대표連結: {c['url']}  ")
         if c.get("sources"):

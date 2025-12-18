@@ -9,6 +9,7 @@ from top10_news_crawler.pipeline.dedup import dedup_items
 from top10_news_crawler.pipeline.rank import rank_top
 from top10_news_crawler.pipeline.export import export_md
 from top10_news_crawler.pipeline.parse import load_sources_config
+from top10_news_crawler.pipeline.translate import translate_titles_zh_tw
 
 
 def cli() -> None:
@@ -24,6 +25,7 @@ def cli() -> None:
     items = fetch_all(sources)
     items = dedup_items(items)
     top_items = rank_top(items, sources, top_k=args.top)
+    top_items = translate_titles_zh_tw(top_items)
 
     (out_dir / "top10.json").write_text(
         json.dumps(top_items, ensure_ascii=False, indent=2),
