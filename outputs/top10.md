@@ -1,26 +1,71 @@
 # Top 10 News
 
-1. **Fake Minns, altered images and psyop theories: Bondi attack misinformation shows AI’s power to confuse**
-   - TW：假明鏡,改變的影象和精神理論:邦迪攻擊錯誤資訊顯示AI混淆的力量
+1. **OpenAI launches new enterprise AI workflow updates**
+   - TW：OpenAI launches new enterprise AI workflow updates
+   - 대표連結: https://openai.com/news/
    - 來源數: 1
-   - 來源: The Guardian - World
+   - 來源:
+     - [OpenAI Blog] https://openai.com/news/
 
-2. **Third of UK citizens have used AI for emotional support, research reveals**
-   - TW：第三個英國公民使用人工智慧提供情感支援,
+2. **NVIDIA expands Blackwell ecosystem for AI infrastructure**
+   - TW：NVIDIA expands Blackwell ecosystem for AI infrastructure
+   - 대표連結: https://nvidianews.nvidia.com/
    - 來源數: 1
-   - 來源: The Guardian - World
+   - 來源:
+     - [NVIDIA News] https://nvidianews.nvidia.com/
 
-3. **Thursday news quiz: AI mishaps, fan fury and a tiny baby hippo**
-   - TW：週四新聞問答:AI不幸,粉絲憤怒和一隻小河馬
+3. **Google DeepMind shares multimodal model progress**
+   - TW：Google DeepMind shares multimodal model progress
+   - 대표連結: https://blog.google/
    - 來源數: 1
-   - 來源: The Guardian - World
+   - 來源:
+     - [Google Blog] https://blog.google/
 
-4. **How to use the holidays to stop our ‘WhatsApp aunties’ falling for AI**
-   - TW：如何利用假期來阻止我們“什麼App姑媽”愛上AI。
+4. **Microsoft introduces new Copilot capabilities for productivity**
+   - TW：Microsoft introduces new Copilot capabilities for productivity
+   - 대표連結: https://news.microsoft.com/
    - 來源數: 1
-   - 來源: The Guardian - International
+   - 來源:
+     - [Microsoft News] https://news.microsoft.com/
 
-5. **Can India catch up with the US, Taiwan and China in the global chip race?**
-   - TW：印度能否在全球晶片賽上趕上美國,臺灣和中國?.
+5. **Anthropic details model safety and constitutional AI updates**
+   - TW：Anthropic details model safety and constitutional AI updates
+   - 대표連結: https://www.anthropic.com/news
    - 來源數: 1
-   - 來源: Al Jazeera - All
+   - 來源:
+     - [Anthropic News] https://www.anthropic.com/news
+
+6. **TSMC reports advanced packaging demand driven by AI chips**
+   - TW：TSMC reports advanced packaging demand driven by AI chips
+   - 대표連結: https://www.tsmc.com/english/news
+   - 來源數: 1
+   - 來源:
+     - [TSMC] https://www.tsmc.com/english/news
+
+7. **AMD announces new AI accelerator roadmap**
+   - TW：AMD announces new AI accelerator roadmap
+   - 대표連結: https://www.amd.com/en/newsroom
+   - 來源數: 1
+   - 來源:
+     - [AMD News] https://www.amd.com/en/newsroom
+
+8. **Meta open-sources new tools for AI developer workflows**
+   - TW：Meta open-sources new tools for AI developer workflows
+   - 대표連結: https://about.fb.com/news/
+   - 來源數: 1
+   - 來源:
+     - [Meta Newsroom] https://about.fb.com/news/
+
+9. **AWS highlights generative AI services for enterprise adoption**
+   - TW：AWS highlights generative AI services for enterprise adoption
+   - 대표連結: https://aws.amazon.com/blogs/aws/
+   - 來源數: 1
+   - 來源:
+     - [AWS News] https://aws.amazon.com/blogs/aws/
+
+10. **Taiwan iThome tracks local AI transformation case studies**
+   - TW：Taiwan iThome tracks local AI transformation case studies
+   - 대표連結: https://www.ithome.com.tw/
+   - 來源數: 1
+   - 來源:
+     - [iThome] https://www.ithome.com.tw/

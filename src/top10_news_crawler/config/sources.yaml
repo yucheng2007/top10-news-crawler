@@ -1,39 +1,39 @@
 sources:
-  # ===== AI / Tech 主流 =====
+  # Global AI / Tech
   - id: verge
     name: The Verge
     rss: https://www.theverge.com/rss/index.xml
-
   - id: techcrunch
     name: TechCrunch
     rss: https://techcrunch.com/feed/
-
   - id: wired
     name: WIRED
     rss: https://www.wired.com/feed/rss
-
   - id: ars
     name: Ars Technica
     rss: https://feeds.arstechnica.com/arstechnica/index/
-
-  # ===== 半導體 / 硬體 =====
-  - id: eetimes
-    name: EE Times
-    rss: https://www.eetimes.com/feed/
-
-  - id: semiwiki
-    name: SemiWiki
-    rss: https://semiwiki.com/feed/
-
-  - id: nvidia
-    name: NVIDIA Press Room
-    rss: https://nvidianews.nvidia.com/rss.xml
-
-  - id: amd
-    name: AMD Press
-    rss: https://www.amd.com/en/rss.xml
-
-  # ===== 保底（仍保留 1~2 個世界新聞）=====
   - id: bbc_tech
     name: BBC Technology
     rss: https://feeds.bbci.co.uk/news/technology/rss.xml
+  - id: reuters_tech
+    name: Reuters Technology
+    rss: https://feeds.reuters.com/reuters/technologyNews
+
+  # Semiconductor / hardware
+  - id: eetimes
+    name: EE Times
+    rss: https://www.eetimes.com/feed/
+  - id: semiwiki
+    name: SemiWiki
+    rss: https://semiwiki.com/feed/
+  - id: nvidia
+    name: NVIDIA News
+    rss: https://nvidianews.nvidia.com/rss.xml
+
+  # Taiwan / Chinese tech news
+  - id: ithome_tw
+    name: iThome
+    rss: https://www.ithome.com.tw/rss
+  - id: cna_it
+    name: CNA 科技
+    rss: https://www.cna.com.tw/rss/ahel.xml

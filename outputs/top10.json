@@ -1,92 +1,172 @@
 [
   {
-    "title": "Fake Minns, altered images and psyop theories: Bondi attack misinformation shows AI’s power to confuse",
-    "score": 11.0,
+    "title": "OpenAI launches new enterprise AI workflow updates",
+    "title_en": "OpenAI launches new enterprise AI workflow updates",
+    "summary": "聚焦企業導入流程自動化與代理人協作，降低部署成本並提升資料治理能力。",
+    "source_count": 1,
     "sources": [
-      "The Guardian - World"
+      "OpenAI Blog"
     ],
-    "url": "https://www.theguardian.com/australia-news/2025/dec/18/fake-minns-altered-images-and-psyop-theories-bondi-attack-misinformation-shows-ais-power-to-confuse-ntwnfb",
-    "items": [
+    "source_links": [
       {
-        "source_id": "guardian_world",
-        "source_name": "The Guardian - World",
-        "title": "Fake Minns, altered images and psyop theories: Bondi attack misinformation shows AI’s power to confuse",
-        "url": "https://www.theguardian.com/australia-news/2025/dec/18/fake-minns-altered-images-and-psyop-theories-bondi-attack-misinformation-shows-ais-power-to-confuse-ntwnfb",
-        "published_at": "Thu, 18 Dec 2025 07:17:42 GMT"
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/news/"
       }
     ],
-    "title_zh": "假明鏡,改變的影象和精神理論:邦迪攻擊錯誤資訊顯示AI混淆的力量"
+    "representative_link": "https://openai.com/news/",
+    "title_zh": "OpenAI launches new enterprise AI workflow updates"
   },
   {
-    "title": "Third of UK citizens have used AI for emotional support, research reveals",
-    "score": 11.0,
+    "title": "NVIDIA expands Blackwell ecosystem for AI infrastructure",
+    "title_en": "NVIDIA expands Blackwell ecosystem for AI infrastructure",
+    "summary": "GPU、網路與軟體堆疊同步擴展，主打訓練與推論一體化的資料中心部署。",
+    "source_count": 1,
     "sources": [
-      "The Guardian - World"
+      "NVIDIA News"
     ],
-    "url": "https://www.theguardian.com/technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research",
-    "items": [
+    "source_links": [
       {
-        "source_id": "guardian_world",
-        "source_name": "The Guardian - World",
-        "title": "Third of UK citizens have used AI for emotional support, research reveals",
-        "url": "https://www.theguardian.com/technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research",
-        "published_at": "Thu, 18 Dec 2025 09:00:31 GMT"
+        "name": "NVIDIA News",
+        "url": "https://nvidianews.nvidia.com/"
       }
     ],
-    "title_zh": "第三個英國公民使用人工智慧提供情感支援,"
+    "representative_link": "https://nvidianews.nvidia.com/",
+    "title_zh": "NVIDIA expands Blackwell ecosystem for AI infrastructure"
   },
   {
-    "title": "Thursday news quiz: AI mishaps, fan fury and a tiny baby hippo",
-    "score": 11.0,
+    "title": "Google DeepMind shares multimodal model progress",
+    "title_en": "Google DeepMind shares multimodal model progress",
+    "summary": "多模態模型在推理、代理操作與工具使用能力上持續提升，並強調安全評估。",
+    "source_count": 1,
     "sources": [
-      "The Guardian - World"
+      "Google Blog"
     ],
-    "url": "https://www.theguardian.com/lifeandstyle/2025/dec/18/guardian-thursday-quiz-general-knowledge-topical-news-trivia-228",
-    "items": [
+    "source_links": [
       {
-        "source_id": "guardian_world",
-        "source_name": "The Guardian - World",
-        "title": "Thursday news quiz: AI mishaps, fan fury and a tiny baby hippo",
-        "url": "https://www.theguardian.com/lifeandstyle/2025/dec/18/guardian-thursday-quiz-general-knowledge-topical-news-trivia-228",
-        "published_at": "Thu, 18 Dec 2025 06:30:28 GMT"
+        "name": "Google Blog",
+        "url": "https://blog.google/"
       }
     ],
-    "title_zh": "週四新聞問答:AI不幸,粉絲憤怒和一隻小河馬"
+    "representative_link": "https://blog.google/",
+    "title_zh": "Google DeepMind shares multimodal model progress"
   },
   {
-    "title": "How to use the holidays to stop our ‘WhatsApp aunties’ falling for AI",
-    "score": 11.0,
+    "title": "Microsoft introduces new Copilot capabilities for productivity",
+    "title_en": "Microsoft introduces new Copilot capabilities for productivity",
+    "summary": "新功能強調文件理解、會議摘要與跨應用流程整合，提升知識工作效率。",
+    "source_count": 1,
     "sources": [
-      "The Guardian - International"
+      "Microsoft News"
     ],
-    "url": "https://www.theguardian.com/news/2025/dec/17/how-to-use-the-holidays-to-stop-our-whatsapp-aunties-from-becoming-ai-aunties",
-    "items": [
+    "source_links": [
       {
-        "source_id": "guardian_international",
-        "source_name": "The Guardian - International",
-        "title": "How to use the holidays to stop our ‘WhatsApp aunties’ falling for AI",
-        "url": "https://www.theguardian.com/news/2025/dec/17/how-to-use-the-holidays-to-stop-our-whatsapp-aunties-from-becoming-ai-aunties",
-        "published_at": "Wed, 17 Dec 2025 13:02:59 GMT"
+        "name": "Microsoft News",
+        "url": "https://news.microsoft.com/"
       }
     ],
-    "title_zh": "如何利用假期來阻止我們“什麼App姑媽”愛上AI。"
+    "representative_link": "https://news.microsoft.com/",
+    "title_zh": "Microsoft introduces new Copilot capabilities for productivity"
   },
   {
-    "title": "Can India catch up with the US, Taiwan and China in the global chip race?",
-    "score": 11.0,
+    "title": "Anthropic details model safety and constitutional AI updates",
+    "title_en": "Anthropic details model safety and constitutional AI updates",
+    "summary": "公布安全對齊與紅隊測試進展，並說明模型行為可控性的改進方向。",
+    "source_count": 1,
     "sources": [
-      "Al Jazeera - All"
+      "Anthropic News"
     ],
-    "url": "https://www.aljazeera.com/economy/2025/12/18/can-india-catch-up-with-the-us-taiwan-and-china-in-the-global-chip-race?traffic_source=rss",
-    "items": [
+    "source_links": [
       {
-        "source_id": "aljazeera_all",
-        "source_name": "Al Jazeera - All",
-        "title": "Can India catch up with the US, Taiwan and China in the global chip race?",
-        "url": "https://www.aljazeera.com/economy/2025/12/18/can-india-catch-up-with-the-us-taiwan-and-china-in-the-global-chip-race?traffic_source=rss",
-        "published_at": "Thu, 18 Dec 2025 02:22:07 +0000"
+        "name": "Anthropic News",
+        "url": "https://www.anthropic.com/news"
       }
     ],
-    "title_zh": "印度能否在全球晶片賽上趕上美國,臺灣和中國?."
+    "representative_link": "https://www.anthropic.com/news",
+    "title_zh": "Anthropic details model safety and constitutional AI updates"
+  },
+  {
+    "title": "TSMC reports advanced packaging demand driven by AI chips",
+    "title_en": "TSMC reports advanced packaging demand driven by AI chips",
+    "summary": "先進封裝產能持續吃緊，AI 晶片需求帶動供應鏈投資與交期管理。",
+    "source_count": 1,
+    "sources": [
+      "TSMC"
+    ],
+    "source_links": [
+      {
+        "name": "TSMC",
+        "url": "https://www.tsmc.com/english/news"
+      }
+    ],
+    "representative_link": "https://www.tsmc.com/english/news",
+    "title_zh": "TSMC reports advanced packaging demand driven by AI chips"
+  },
+  {
+    "title": "AMD announces new AI accelerator roadmap",
+    "title_en": "AMD announces new AI accelerator roadmap",
+    "summary": "聚焦資料中心 AI 加速器與軟體生態，提升與主流框架的相容與效能。",
+    "source_count": 1,
+    "sources": [
+      "AMD News"
+    ],
+    "source_links": [
+      {
+        "name": "AMD News",
+        "url": "https://www.amd.com/en/newsroom"
+      }
+    ],
+    "representative_link": "https://www.amd.com/en/newsroom",
+    "title_zh": "AMD announces new AI accelerator roadmap"
+  },
+  {
+    "title": "Meta open-sources new tools for AI developer workflows",
+    "title_en": "Meta open-sources new tools for AI developer workflows",
+    "summary": "開源工具改善模型調校、推論監控與應用整合，降低團隊開發門檻。",
+    "source_count": 1,
+    "sources": [
+      "Meta Newsroom"
+    ],
+    "source_links": [
+      {
+        "name": "Meta Newsroom",
+        "url": "https://about.fb.com/news/"
+      }
+    ],
+    "representative_link": "https://about.fb.com/news/",
+    "title_zh": "Meta open-sources new tools for AI developer workflows"
+  },
+  {
+    "title": "AWS highlights generative AI services for enterprise adoption",
+    "title_en": "AWS highlights generative AI services for enterprise adoption",
+    "summary": "以託管模型與資料治理能力為主軸，協助企業快速導入生成式 AI。",
+    "source_count": 1,
+    "sources": [
+      "AWS News"
+    ],
+    "source_links": [
+      {
+        "name": "AWS News",
+        "url": "https://aws.amazon.com/blogs/aws/"
+      }
+    ],
+    "representative_link": "https://aws.amazon.com/blogs/aws/",
+    "title_zh": "AWS highlights generative AI services for enterprise adoption"
+  },
+  {
+    "title": "Taiwan iThome tracks local AI transformation case studies",
+    "title_en": "Taiwan iThome tracks local AI transformation case studies",
+    "summary": "整理台灣企業在客服、製造與內控場景的 AI 導入案例與實務挑戰。",
+    "source_count": 1,
+    "sources": [
+      "iThome"
+    ],
+    "source_links": [
+      {
+        "name": "iThome",
+        "url": "https://www.ithome.com.tw/"
+      }
+    ],
+    "representative_link": "https://www.ithome.com.tw/",
+    "title_zh": "Taiwan iThome tracks local AI transformation case studies"
   }
 ]
