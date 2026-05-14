@@ -61,6 +61,12 @@
 
 <!-- TOP10_NEWS_END -->
 
+
+## 靜態網站（AI Top10 每日更新）
+- 產生頁面：`docs/index.html`（圖文卡片呈現 + Reference 連結）
+- 建議網址（啟用 GitHub Pages 後）：`https://<your-github-username>.github.io/top10-news-crawler/`
+- 每日自動更新：`.github/workflows/daily-ai-top10.yml`（UTC 00:05 執行）
+
 ## Outputs
 - `outputs/top10.json`
 - `outputs/top10.md`
