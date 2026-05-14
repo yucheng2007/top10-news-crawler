@@ -1,39 +1,38 @@
 sources:
-  # Global AI / Tech
+  # Priority: international wires / business media for AI
+  - id: reuters_tech
+    name: Reuters Technology
+    rss: https://feeds.reuters.com/reuters/technologyNews
+
+  - id: ap_news
+    name: Associated Press - Technology
+    rss: https://apnews.com/hub/technology/rss
+
+  - id: bloomberg_tech
+    name: Bloomberg Technology
+    rss: https://feeds.bloomberg.com/technology/news.rss
+
+  - id: ft_tech
+    name: Financial Times - Technology
+    rss: https://www.ft.com/technology?format=rss
+
+  - id: wsj_tech
+    name: WSJ Technology
+    rss: https://feeds.a.dj.com/rss/RSSWSJD.xml
+
+  # Additional AI / semiconductor coverage
   - id: verge
     name: The Verge
     rss: https://www.theverge.com/rss/index.xml
   - id: techcrunch
     name: TechCrunch
     rss: https://techcrunch.com/feed/
-  - id: wired
-    name: WIRED
-    rss: https://www.wired.com/feed/rss
-  - id: ars
-    name: Ars Technica
-    rss: https://feeds.arstechnica.com/arstechnica/index/
   - id: bbc_tech
     name: BBC Technology
     rss: https://feeds.bbci.co.uk/news/technology/rss.xml
-  - id: reuters_tech
-    name: Reuters Technology
-    rss: https://feeds.reuters.com/reuters/technologyNews
-
-  # Semiconductor / hardware
-  - id: eetimes
-    name: EE Times
-    rss: https://www.eetimes.com/feed/
-  - id: semiwiki
-    name: SemiWiki
-    rss: https://semiwiki.com/feed/
   - id: nvidia
     name: NVIDIA News
     rss: https://nvidianews.nvidia.com/rss.xml
-
-  # Taiwan / Chinese tech news
   - id: ithome_tw
     name: iThome
     rss: https://www.ithome.com.tw/rss
-  - id: cna_it
-    name: CNA 科技
-    rss: https://www.cna.com.tw/rss/ahel.xml

@@ -9,75 +9,75 @@
 
 # Top 10 News
 
-1. **OpenAI launches new enterprise AI workflow updates**
-   - TW：OpenAI launches new enterprise AI workflow updates
-   - 대표連結: https://openai.com/news/
+1. **Global regulators tighten AI disclosure and safety requirements**
+   - TW：Global regulators tighten AI disclosure and safety requirements
+   - 대표連結: https://www.reuters.com/world/artificial-intelligence/
    - 來源數: 1
    - 來源:
-     - [OpenAI Blog] https://openai.com/news/
+     - [Reuters AI] https://www.reuters.com/world/artificial-intelligence/
 
-2. **NVIDIA expands Blackwell ecosystem for AI infrastructure**
-   - TW：NVIDIA expands Blackwell ecosystem for AI infrastructure
-   - 대표連結: https://nvidianews.nvidia.com/
+2. **AP tracks newsroom adoption of generative AI tools**
+   - TW：AP tracks newsroom adoption of generative AI tools
+   - 대표連結: https://apnews.com/technology
    - 來源數: 1
    - 來源:
-     - [NVIDIA News] https://nvidianews.nvidia.com/
+     - [AP Technology] https://apnews.com/technology
 
-3. **Google DeepMind shares multimodal model progress**
-   - TW：Google DeepMind shares multimodal model progress
-   - 대표連結: https://blog.google/
+3. **Bloomberg highlights AI capital spending by hyperscalers**
+   - TW：Bloomberg highlights AI capital spending by hyperscalers
+   - 대표連結: https://www.bloomberg.com/technology
    - 來源數: 1
    - 來源:
-     - [Google Blog] https://blog.google/
+     - [Bloomberg Technology] https://www.bloomberg.com/technology
 
-4. **Microsoft introduces new Copilot capabilities for productivity**
-   - TW：Microsoft introduces new Copilot capabilities for productivity
-   - 대표連結: https://news.microsoft.com/
+4. **Financial Times examines enterprise AI strategy and governance**
+   - TW：Financial Times examines enterprise AI strategy and governance
+   - 대표連結: https://www.ft.com/technology
    - 來源數: 1
    - 來源:
-     - [Microsoft News] https://news.microsoft.com/
+     - [FT Technology] https://www.ft.com/technology
 
-5. **Anthropic details model safety and constitutional AI updates**
-   - TW：Anthropic details model safety and constitutional AI updates
-   - 대표連結: https://www.anthropic.com/news
+5. **WSJ reports intense AI talent competition across big tech**
+   - TW：WSJ reports intense AI talent competition across big tech
+   - 대표連結: https://www.wsj.com/tech
    - 來源數: 1
    - 來源:
-     - [Anthropic News] https://www.anthropic.com/news
+     - [WSJ Tech] https://www.wsj.com/tech
 
-6. **TSMC reports advanced packaging demand driven by AI chips**
-   - TW：TSMC reports advanced packaging demand driven by AI chips
-   - 대표連結: https://www.tsmc.com/english/news
+6. **Reuters covers AI chip supply and advanced packaging constraints**
+   - TW：Reuters covers AI chip supply and advanced packaging constraints
+   - 대표連結: https://www.reuters.com/technology/
    - 來源數: 1
    - 來源:
-     - [TSMC] https://www.tsmc.com/english/news
+     - [Reuters Technology] https://www.reuters.com/technology/
 
-7. **AMD announces new AI accelerator roadmap**
-   - TW：AMD announces new AI accelerator roadmap
-   - 대표連結: https://www.amd.com/en/newsroom
+7. **Bloomberg tracks monetization pressure on consumer AI products**
+   - TW：Bloomberg tracks monetization pressure on consumer AI products
+   - 대표連結: https://www.bloomberg.com/ai
    - 來源數: 1
    - 來源:
-     - [AMD News] https://www.amd.com/en/newsroom
+     - [Bloomberg AI] https://www.bloomberg.com/ai
 
-8. **Meta open-sources new tools for AI developer workflows**
-   - TW：Meta open-sources new tools for AI developer workflows
-   - 대표連結: https://about.fb.com/news/
+8. **FT analyzes policy impact on cross-border AI model deployment**
+   - TW：FT analyzes policy impact on cross-border AI model deployment
+   - 대표連結: https://www.ft.com/artificial-intelligence
    - 來源數: 1
    - 來源:
-     - [Meta Newsroom] https://about.fb.com/news/
+     - [FT AI] https://www.ft.com/artificial-intelligence
 
-9. **AWS highlights generative AI services for enterprise adoption**
-   - TW：AWS highlights generative AI services for enterprise adoption
-   - 대표連結: https://aws.amazon.com/blogs/aws/
+9. **AP reviews AI use in public services and civic operations**
+   - TW：AP reviews AI use in public services and civic operations
+   - 대표連結: https://apnews.com/data-and-technology
    - 來源數: 1
    - 來源:
-     - [AWS News] https://aws.amazon.com/blogs/aws/
+     - [AP Data/Tech] https://apnews.com/data-and-technology
 
-10. **Taiwan iThome tracks local AI transformation case studies**
-   - TW：Taiwan iThome tracks local AI transformation case studies
-   - 대표連結: https://www.ithome.com.tw/
+10. **WSJ details enterprise demand for secure private AI deployments**
+   - TW：WSJ details enterprise demand for secure private AI deployments
+   - 대표連結: https://www.wsj.com/tech
    - 來源數: 1
    - 來源:
-     - [iThome] https://www.ithome.com.tw/
+     - [WSJ CIO/Tech] https://www.wsj.com/tech
 
 <!-- TOP10_NEWS_END -->
 

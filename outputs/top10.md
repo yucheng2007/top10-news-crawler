@@ -1,71 +1,71 @@
 # Top 10 News
 
-1. **OpenAI launches new enterprise AI workflow updates**
-   - TW：OpenAI launches new enterprise AI workflow updates
-   - 대표連結: https://news.google.com/search?q=OpenAI%20launches%20new%20enterprise%20AI%20workflow%20updates
+1. **Global regulators tighten AI disclosure and safety requirements**
+   - TW：Global regulators tighten AI disclosure and safety requirements
+   - 대표連結: https://www.reuters.com/world/artificial-intelligence/
    - 來源數: 1
    - 來源:
-     - [Google News] https://news.google.com/search?q=OpenAI%20launches%20new%20enterprise%20AI%20workflow%20updates
+     - [Reuters AI] https://www.reuters.com/world/artificial-intelligence/
 
-2. **NVIDIA expands Blackwell ecosystem for AI infrastructure**
-   - TW：NVIDIA expands Blackwell ecosystem for AI infrastructure
-   - 대표連結: https://news.google.com/search?q=NVIDIA%20expands%20Blackwell%20ecosystem%20for%20AI%20infrastructure
+2. **AP tracks newsroom adoption of generative AI tools**
+   - TW：AP tracks newsroom adoption of generative AI tools
+   - 대표連結: https://apnews.com/technology
    - 來源數: 1
    - 來源:
-     - [Google News] https://news.google.com/search?q=NVIDIA%20expands%20Blackwell%20ecosystem%20for%20AI%20infrastructure
+     - [AP Technology] https://apnews.com/technology
 
-3. **Google DeepMind shares multimodal model progress**
-   - TW：Google DeepMind shares multimodal model progress
-   - 대표連結: https://news.google.com/search?q=Google%20DeepMind%20shares%20multimodal%20model%20progress
+3. **Bloomberg highlights AI capital spending by hyperscalers**
+   - TW：Bloomberg highlights AI capital spending by hyperscalers
+   - 대표連結: https://www.bloomberg.com/technology
    - 來源數: 1
    - 來源:
-     - [Google News] https://news.google.com/search?q=Google%20DeepMind%20shares%20multimodal%20model%20progress
+     - [Bloomberg Technology] https://www.bloomberg.com/technology
 
-4. **Microsoft introduces new Copilot capabilities for productivity**
-   - TW：Microsoft introduces new Copilot capabilities for productivity
-   - 대표連結: https://news.google.com/search?q=Microsoft%20introduces%20new%20Copilot%20capabilities%20for%20productivity
+4. **Financial Times examines enterprise AI strategy and governance**
+   - TW：Financial Times examines enterprise AI strategy and governance
+   - 대표連結: https://www.ft.com/technology
    - 來源數: 1
    - 來源:
-     - [Google News] https://news.google.com/search?q=Microsoft%20introduces%20new%20Copilot%20capabilities%20for%20productivity
+     - [FT Technology] https://www.ft.com/technology
 
-5. **Anthropic details model safety and constitutional AI updates**
-   - TW：Anthropic details model safety and constitutional AI updates
-   - 대표連結: https://news.google.com/search?q=Anthropic%20details%20model%20safety%20and%20constitutional%20AI%20updates
+5. **WSJ reports intense AI talent competition across big tech**
+   - TW：WSJ reports intense AI talent competition across big tech
+   - 대표連結: https://www.wsj.com/tech
    - 來源數: 1
    - 來源:
-     - [Google News] https://news.google.com/search?q=Anthropic%20details%20model%20safety%20and%20constitutional%20AI%20updates
+     - [WSJ Tech] https://www.wsj.com/tech
 
-6. **TSMC reports advanced packaging demand driven by AI chips**
-   - TW：TSMC reports advanced packaging demand driven by AI chips
-   - 대표連結: https://news.google.com/search?q=TSMC%20reports%20advanced%20packaging%20demand%20driven%20by%20AI%20chips
+6. **Reuters covers AI chip supply and advanced packaging constraints**
+   - TW：Reuters covers AI chip supply and advanced packaging constraints
+   - 대표連結: https://www.reuters.com/technology/
    - 來源數: 1
    - 來源:
-     - [Google News] https://news.google.com/search?q=TSMC%20reports%20advanced%20packaging%20demand%20driven%20by%20AI%20chips
+     - [Reuters Technology] https://www.reuters.com/technology/
 
-7. **AMD announces new AI accelerator roadmap**
-   - TW：AMD announces new AI accelerator roadmap
-   - 대표連結: https://news.google.com/search?q=AMD%20announces%20new%20AI%20accelerator%20roadmap
+7. **Bloomberg tracks monetization pressure on consumer AI products**
+   - TW：Bloomberg tracks monetization pressure on consumer AI products
+   - 대표連結: https://www.bloomberg.com/ai
    - 來源數: 1
    - 來源:
-     - [Google News] https://news.google.com/search?q=AMD%20announces%20new%20AI%20accelerator%20roadmap
+     - [Bloomberg AI] https://www.bloomberg.com/ai
 
-8. **Meta open-sources new tools for AI developer workflows**
-   - TW：Meta open-sources new tools for AI developer workflows
-   - 대표連結: https://news.google.com/search?q=Meta%20open-sources%20new%20tools%20for%20AI%20developer%20workflows
+8. **FT analyzes policy impact on cross-border AI model deployment**
+   - TW：FT analyzes policy impact on cross-border AI model deployment
+   - 대표連結: https://www.ft.com/artificial-intelligence
    - 來源數: 1
    - 來源:
-     - [Google News] https://news.google.com/search?q=Meta%20open-sources%20new%20tools%20for%20AI%20developer%20workflows
+     - [FT AI] https://www.ft.com/artificial-intelligence
 
-9. **AWS highlights generative AI services for enterprise adoption**
-   - TW：AWS highlights generative AI services for enterprise adoption
-   - 대표連結: https://news.google.com/search?q=AWS%20highlights%20generative%20AI%20services%20for%20enterprise%20adoption
+9. **AP reviews AI use in public services and civic operations**
+   - TW：AP reviews AI use in public services and civic operations
+   - 대표連結: https://apnews.com/data-and-technology
    - 來源數: 1
    - 來源:
-     - [Google News] https://news.google.com/search?q=AWS%20highlights%20generative%20AI%20services%20for%20enterprise%20adoption
+     - [AP Data/Tech] https://apnews.com/data-and-technology
 
-10. **Taiwan iThome tracks local AI transformation case studies**
-   - TW：Taiwan iThome tracks local AI transformation case studies
-   - 대표連結: https://news.google.com/search?q=Taiwan%20iThome%20tracks%20local%20AI%20transformation%20case%20studies
+10. **WSJ details enterprise demand for secure private AI deployments**
+   - TW：WSJ details enterprise demand for secure private AI deployments
+   - 대표連結: https://www.wsj.com/tech
    - 來源數: 1
    - 來源:
-     - [Google News] https://news.google.com/search?q=Taiwan%20iThome%20tracks%20local%20AI%20transformation%20case%20studies
+     - [WSJ CIO/Tech] https://www.wsj.com/tech

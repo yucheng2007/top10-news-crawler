@@ -1,172 +1,172 @@
 [
   {
-    "title": "OpenAI launches new enterprise AI workflow updates",
-    "title_en": "OpenAI launches new enterprise AI workflow updates",
-    "summary": "聚焦企業導入流程自動化與代理人協作，降低部署成本並提升資料治理能力。",
+    "title": "Global regulators tighten AI disclosure and safety requirements",
+    "title_en": "Global regulators tighten AI disclosure and safety requirements",
+    "summary": "多國監管機構更新 AI 透明度與風險揭露規範，企業需強化模型治理與稽核流程。",
     "source_count": 1,
     "sources": [
-      "OpenAI Blog"
+      "Reuters"
     ],
     "source_links": [
       {
-        "name": "Google News",
-        "url": "https://news.google.com/search?q=OpenAI%20launches%20new%20enterprise%20AI%20workflow%20updates"
+        "name": "Reuters AI",
+        "url": "https://www.reuters.com/world/artificial-intelligence/"
       }
     ],
-    "representative_link": "https://news.google.com/search?q=OpenAI%20launches%20new%20enterprise%20AI%20workflow%20updates",
-    "title_zh": "OpenAI launches new enterprise AI workflow updates"
+    "representative_link": "https://www.reuters.com/world/artificial-intelligence/",
+    "title_zh": "Global regulators tighten AI disclosure and safety requirements"
   },
   {
-    "title": "NVIDIA expands Blackwell ecosystem for AI infrastructure",
-    "title_en": "NVIDIA expands Blackwell ecosystem for AI infrastructure",
-    "summary": "GPU、網路與軟體堆疊同步擴展，主打訓練與推論一體化的資料中心部署。",
+    "title": "AP tracks newsroom adoption of generative AI tools",
+    "title_en": "AP tracks newsroom adoption of generative AI tools",
+    "summary": "新聞機構加速導入生成式 AI 於整理、標註與多語內容製作，但仍以編輯把關為核心。",
     "source_count": 1,
     "sources": [
-      "NVIDIA News"
+      "Associated Press"
     ],
     "source_links": [
       {
-        "name": "Google News",
-        "url": "https://news.google.com/search?q=NVIDIA%20expands%20Blackwell%20ecosystem%20for%20AI%20infrastructure"
+        "name": "AP Technology",
+        "url": "https://apnews.com/technology"
       }
     ],
-    "representative_link": "https://news.google.com/search?q=NVIDIA%20expands%20Blackwell%20ecosystem%20for%20AI%20infrastructure",
-    "title_zh": "NVIDIA expands Blackwell ecosystem for AI infrastructure"
+    "representative_link": "https://apnews.com/technology",
+    "title_zh": "AP tracks newsroom adoption of generative AI tools"
   },
   {
-    "title": "Google DeepMind shares multimodal model progress",
-    "title_en": "Google DeepMind shares multimodal model progress",
-    "summary": "多模態模型在推理、代理操作與工具使用能力上持續提升，並強調安全評估。",
+    "title": "Bloomberg highlights AI capital spending by hyperscalers",
+    "title_en": "Bloomberg highlights AI capital spending by hyperscalers",
+    "summary": "大型雲端與平台公司持續擴大 AI 基礎設施投資，市場關注資本支出回收與獲利節奏。",
     "source_count": 1,
     "sources": [
-      "Google Blog"
+      "Bloomberg"
     ],
     "source_links": [
       {
-        "name": "Google News",
-        "url": "https://news.google.com/search?q=Google%20DeepMind%20shares%20multimodal%20model%20progress"
+        "name": "Bloomberg Technology",
+        "url": "https://www.bloomberg.com/technology"
       }
     ],
-    "representative_link": "https://news.google.com/search?q=Google%20DeepMind%20shares%20multimodal%20model%20progress",
-    "title_zh": "Google DeepMind shares multimodal model progress"
+    "representative_link": "https://www.bloomberg.com/technology",
+    "title_zh": "Bloomberg highlights AI capital spending by hyperscalers"
   },
   {
-    "title": "Microsoft introduces new Copilot capabilities for productivity",
-    "title_en": "Microsoft introduces new Copilot capabilities for productivity",
-    "summary": "新功能強調文件理解、會議摘要與跨應用流程整合，提升知識工作效率。",
+    "title": "Financial Times examines enterprise AI strategy and governance",
+    "title_en": "Financial Times examines enterprise AI strategy and governance",
+    "summary": "企業在導入 AI 時，逐步從試點轉向規模化，並把資料治理與責任分工列為決策重點。",
     "source_count": 1,
     "sources": [
-      "Microsoft News"
+      "Financial Times"
     ],
     "source_links": [
       {
-        "name": "Google News",
-        "url": "https://news.google.com/search?q=Microsoft%20introduces%20new%20Copilot%20capabilities%20for%20productivity"
+        "name": "FT Technology",
+        "url": "https://www.ft.com/technology"
       }
     ],
-    "representative_link": "https://news.google.com/search?q=Microsoft%20introduces%20new%20Copilot%20capabilities%20for%20productivity",
-    "title_zh": "Microsoft introduces new Copilot capabilities for productivity"
+    "representative_link": "https://www.ft.com/technology",
+    "title_zh": "Financial Times examines enterprise AI strategy and governance"
   },
   {
-    "title": "Anthropic details model safety and constitutional AI updates",
-    "title_en": "Anthropic details model safety and constitutional AI updates",
-    "summary": "公布安全對齊與紅隊測試進展，並說明模型行為可控性的改進方向。",
+    "title": "WSJ reports intense AI talent competition across big tech",
+    "title_en": "WSJ reports intense AI talent competition across big tech",
+    "summary": "科技巨頭在模型、晶片與產品落地上競爭加劇，帶動 AI 人才薪資與併購動態升溫。",
     "source_count": 1,
     "sources": [
-      "Anthropic News"
+      "WSJ"
     ],
     "source_links": [
       {
-        "name": "Google News",
-        "url": "https://news.google.com/search?q=Anthropic%20details%20model%20safety%20and%20constitutional%20AI%20updates"
+        "name": "WSJ Tech",
+        "url": "https://www.wsj.com/tech"
       }
     ],
-    "representative_link": "https://news.google.com/search?q=Anthropic%20details%20model%20safety%20and%20constitutional%20AI%20updates",
-    "title_zh": "Anthropic details model safety and constitutional AI updates"
+    "representative_link": "https://www.wsj.com/tech",
+    "title_zh": "WSJ reports intense AI talent competition across big tech"
   },
   {
-    "title": "TSMC reports advanced packaging demand driven by AI chips",
-    "title_en": "TSMC reports advanced packaging demand driven by AI chips",
-    "summary": "先進封裝產能持續吃緊，AI 晶片需求帶動供應鏈投資與交期管理。",
+    "title": "Reuters covers AI chip supply and advanced packaging constraints",
+    "title_en": "Reuters covers AI chip supply and advanced packaging constraints",
+    "summary": "AI 晶片需求維持高檔，先進封裝與供應鏈交期管理成為半導體產業焦點。",
     "source_count": 1,
     "sources": [
-      "TSMC"
+      "Reuters"
     ],
     "source_links": [
       {
-        "name": "Google News",
-        "url": "https://news.google.com/search?q=TSMC%20reports%20advanced%20packaging%20demand%20driven%20by%20AI%20chips"
+        "name": "Reuters Technology",
+        "url": "https://www.reuters.com/technology/"
       }
     ],
-    "representative_link": "https://news.google.com/search?q=TSMC%20reports%20advanced%20packaging%20demand%20driven%20by%20AI%20chips",
-    "title_zh": "TSMC reports advanced packaging demand driven by AI chips"
+    "representative_link": "https://www.reuters.com/technology/",
+    "title_zh": "Reuters covers AI chip supply and advanced packaging constraints"
   },
   {
-    "title": "AMD announces new AI accelerator roadmap",
-    "title_en": "AMD announces new AI accelerator roadmap",
-    "summary": "聚焦資料中心 AI 加速器與軟體生態，提升與主流框架的相容與效能。",
+    "title": "Bloomberg tracks monetization pressure on consumer AI products",
+    "title_en": "Bloomberg tracks monetization pressure on consumer AI products",
+    "summary": "消費端 AI 產品從使用者成長走向商業化驗證，訂閱模式與企業合作是主要觀察指標。",
     "source_count": 1,
     "sources": [
-      "AMD News"
+      "Bloomberg"
     ],
     "source_links": [
       {
-        "name": "Google News",
-        "url": "https://news.google.com/search?q=AMD%20announces%20new%20AI%20accelerator%20roadmap"
+        "name": "Bloomberg AI",
+        "url": "https://www.bloomberg.com/ai"
       }
     ],
-    "representative_link": "https://news.google.com/search?q=AMD%20announces%20new%20AI%20accelerator%20roadmap",
-    "title_zh": "AMD announces new AI accelerator roadmap"
+    "representative_link": "https://www.bloomberg.com/ai",
+    "title_zh": "Bloomberg tracks monetization pressure on consumer AI products"
   },
   {
-    "title": "Meta open-sources new tools for AI developer workflows",
-    "title_en": "Meta open-sources new tools for AI developer workflows",
-    "summary": "開源工具改善模型調校、推論監控與應用整合，降低團隊開發門檻。",
+    "title": "FT analyzes policy impact on cross-border AI model deployment",
+    "title_en": "FT analyzes policy impact on cross-border AI model deployment",
+    "summary": "跨境模型部署須因應在地法規與資料主權要求，企業逐步採取區域化 AI 架構。",
     "source_count": 1,
     "sources": [
-      "Meta Newsroom"
+      "Financial Times"
     ],
     "source_links": [
       {
-        "name": "Google News",
-        "url": "https://news.google.com/search?q=Meta%20open-sources%20new%20tools%20for%20AI%20developer%20workflows"
+        "name": "FT AI",
+        "url": "https://www.ft.com/artificial-intelligence"
       }
     ],
-    "representative_link": "https://news.google.com/search?q=Meta%20open-sources%20new%20tools%20for%20AI%20developer%20workflows",
-    "title_zh": "Meta open-sources new tools for AI developer workflows"
+    "representative_link": "https://www.ft.com/artificial-intelligence",
+    "title_zh": "FT analyzes policy impact on cross-border AI model deployment"
   },
   {
-    "title": "AWS highlights generative AI services for enterprise adoption",
-    "title_en": "AWS highlights generative AI services for enterprise adoption",
-    "summary": "以託管模型與資料治理能力為主軸，協助企業快速導入生成式 AI。",
+    "title": "AP reviews AI use in public services and civic operations",
+    "title_en": "AP reviews AI use in public services and civic operations",
+    "summary": "公共部門導入 AI 著重效率與服務品質，同時必須建立公平性與問責機制。",
     "source_count": 1,
     "sources": [
-      "AWS News"
+      "Associated Press"
     ],
     "source_links": [
       {
-        "name": "Google News",
-        "url": "https://news.google.com/search?q=AWS%20highlights%20generative%20AI%20services%20for%20enterprise%20adoption"
+        "name": "AP Data/Tech",
+        "url": "https://apnews.com/data-and-technology"
       }
     ],
-    "representative_link": "https://news.google.com/search?q=AWS%20highlights%20generative%20AI%20services%20for%20enterprise%20adoption",
-    "title_zh": "AWS highlights generative AI services for enterprise adoption"
+    "representative_link": "https://apnews.com/data-and-technology",
+    "title_zh": "AP reviews AI use in public services and civic operations"
   },
   {
-    "title": "Taiwan iThome tracks local AI transformation case studies",
-    "title_en": "Taiwan iThome tracks local AI transformation case studies",
-    "summary": "整理台灣企業在客服、製造與內控場景的 AI 導入案例與實務挑戰。",
+    "title": "WSJ details enterprise demand for secure private AI deployments",
+    "title_en": "WSJ details enterprise demand for secure private AI deployments",
+    "summary": "企業偏好私有化與可控的 AI 部署方式，以兼顧資料安全、合規與可觀測性。",
     "source_count": 1,
     "sources": [
-      "iThome"
+      "WSJ"
     ],
     "source_links": [
       {
-        "name": "Google News",
-        "url": "https://news.google.com/search?q=Taiwan%20iThome%20tracks%20local%20AI%20transformation%20case%20studies"
+        "name": "WSJ CIO/Tech",
+        "url": "https://www.wsj.com/tech"
       }
     ],
-    "representative_link": "https://news.google.com/search?q=Taiwan%20iThome%20tracks%20local%20AI%20transformation%20case%20studies",
-    "title_zh": "Taiwan iThome tracks local AI transformation case studies"
+    "representative_link": "https://www.wsj.com/tech",
+    "title_zh": "WSJ details enterprise demand for secure private AI deployments"
   }
 ]
