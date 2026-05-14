@@ -9,57 +9,83 @@
 
 # Top 10 News
 
-1. **Tell us your favourite film of 2025**
-   - TW：告訴我們你最喜歡的2025年電影
+1. **Global regulators tighten AI disclosure and safety requirements**
+   - TW：Global regulators tighten AI disclosure and safety requirements
+   - 대표連結: https://www.reuters.com/world/artificial-intelligence/
    - 來源數: 1
-   - 來源: The Guardian - International
+   - 來源:
+     - [Reuters AI] https://www.reuters.com/world/artificial-intelligence/
 
-2. **'Maybe she's an angel now' says aunt of Bondi victim, 10, at funeral**
-   - TW：也許她現在是個天使了 邦迪的姑姑說 10歲 在葬禮上
+2. **AP tracks newsroom adoption of generative AI tools**
+   - TW：AP tracks newsroom adoption of generative AI tools
+   - 대표連結: https://apnews.com/technology
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [AP Technology] https://apnews.com/technology
 
-3. **Australian PM announces crackdown on hate speech after Bondi shooting**
-   - TW：澳洲總理宣佈鎮壓邦迪槍擊後的仇恨言論。
+3. **Bloomberg highlights AI capital spending by hyperscalers**
+   - TW：Bloomberg highlights AI capital spending by hyperscalers
+   - 대표連結: https://www.bloomberg.com/technology
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [Bloomberg Technology] https://www.bloomberg.com/technology
 
-4. **EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine**
-   - TW：歐盟領導人面臨將俄羅斯凍結的現金借給烏克蘭的緊縮決定
+4. **Financial Times examines enterprise AI strategy and governance**
+   - TW：Financial Times examines enterprise AI strategy and governance
+   - 대표連結: https://www.ft.com/technology
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [FT Technology] https://www.ft.com/technology
 
-5. **French anaesthetist who poisoned 12 patients to death jailed for life**
-   - TW：法國麻醉師毒死12名病人 終身監禁
+5. **WSJ reports intense AI talent competition across big tech**
+   - TW：WSJ reports intense AI talent competition across big tech
+   - 대표連結: https://www.wsj.com/tech
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [WSJ Tech] https://www.wsj.com/tech
 
-6. **Rob Reiner's family breaks silence as son Nick faces judge on murder charges**
-   - TW：Rob Reiner的家人首度發聲 兒子Nick面對謀殺指控的法官
+6. **Reuters covers AI chip supply and advanced packaging constraints**
+   - TW：Reuters covers AI chip supply and advanced packaging constraints
+   - 대표連結: https://www.reuters.com/technology/
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [Reuters Technology] https://www.reuters.com/technology/
 
-7. **Watch: Moment Nick Reiner is arrested after being seen in convenience store**
-   - TW：注意: 在便利店裡看到Nick Reiner後被捕了
+7. **Bloomberg tracks monetization pressure on consumer AI products**
+   - TW：Bloomberg tracks monetization pressure on consumer AI products
+   - 대표連結: https://www.bloomberg.com/ai
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [Bloomberg AI] https://www.bloomberg.com/ai
 
-8. **Dan Bongino stepping down as FBI deputy director**
-   - TW：丹邦吉諾辭去聯邦調查局副局長
+8. **FT analyzes policy impact on cross-border AI model deployment**
+   - TW：FT analyzes policy impact on cross-border AI model deployment
+   - 대표連結: https://www.ft.com/artificial-intelligence
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [FT AI] https://www.ft.com/artificial-intelligence
 
-9. **Venezuela denounces Trump's order for ship blockade as 'warmongering threats'**
-   - TW：委內瑞拉譴責川普下令封鎖船隻,
+9. **AP reviews AI use in public services and civic operations**
+   - TW：AP reviews AI use in public services and civic operations
+   - 대표連結: https://apnews.com/data-and-technology
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [AP Data/Tech] https://apnews.com/data-and-technology
 
-10. **Heavy rains worsen conditions for displaced Gazans, UN warns**
-   - TW：聯合國警告說,
+10. **WSJ details enterprise demand for secure private AI deployments**
+   - TW：WSJ details enterprise demand for secure private AI deployments
+   - 대표連結: https://www.wsj.com/tech
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [WSJ CIO/Tech] https://www.wsj.com/tech
 
 <!-- TOP10_NEWS_END -->
+
+
+## 靜態網站（AI Top10 每日更新）
+- 產生頁面：`docs/index.html`（圖文卡片呈現 + Reference 連結）
+- 建議網址（啟用 GitHub Pages 後）：`https://<your-github-username>.github.io/top10-news-crawler/`
+- 每日自動更新：`.github/workflows/daily-ai-top10.yml`（UTC 00:05 執行）
 
 ## Outputs
 - `outputs/top10.json`

@@ -27,6 +27,7 @@ def fetch_rss(source: Dict[str, Any]) -> List[Dict[str, Any]]:
         title = (it.title.text if it.title else "").strip()
         link = (it.link.text if it.link else "").strip()
         pub = (it.pubDate.text if it.pubDate else "").strip()
+        desc = (it.description.text if it.description else "").strip()
 
         if not title or not link:
             continue
@@ -38,6 +39,8 @@ def fetch_rss(source: Dict[str, Any]) -> List[Dict[str, Any]]:
                 "title": title,
                 "url": link,
                 "published_at": pub,
+                "summary": desc,
+                "description": desc,
             }
         )
     return items
