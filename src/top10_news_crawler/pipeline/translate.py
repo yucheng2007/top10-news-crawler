@@ -1,70 +1,49 @@
+from __future__ import annotations
+
+from importlib.util import find_spec
+from typing import Dict, List
+
 TW_NEWS_TERMS = {
-    # 國名/地名（台灣慣用）
-    "澳大利亞": "澳洲",
-    "澳大利亚": "澳洲",
-    "新西兰": "紐西蘭",
-    "新西蘭": "紐西蘭",
-    "英国": "英國",
-    "美国": "美國",
-    "欧盟": "歐盟",
-    "联合国": "聯合國",
-    "加沙": "加薩",
-    "乌克兰": "烏克蘭",
-    "俄罗斯": "俄羅斯",
-    "叙利亚": "敘利亞",
-
-    # 新聞動詞（更像台灣新聞）
-    "打破沉默": "首度發聲",
-    "打破了沉默": "首度發聲",
-    "面对": "面臨",
-    "表示": "指出",
-    "称": "稱",
-    "宣布": "宣布",
-    "警告说": "警告",
-    "谴责": "譴責",
-    "批评": "批評",
-
-    # 職務/稱謂（台灣常見）
-    "总理": "總理",
-    "总统": "總統",
-    "副局长": "副局長",
-
-    # 常見詞彙修正
-    "亿": "億",
-    "万": "萬",
-    "网": "網",
-    "视频": "影片",
+    "澳大利亞": "澳洲", "澳大利亚": "澳洲", "新西兰": "紐西蘭", "新西蘭": "紐西蘭",
+    "英国": "英國", "美国": "美國", "欧盟": "歐盟", "联合国": "聯合國",
 }
 
+_HAS_ARGOS = find_spec("argostranslate") is not None
+_HAS_OPENCC = find_spec("opencc") is not None
 
 
-from typing import List, Dict
-from argostranslate import translate
-from opencc import OpenCC
+if _HAS_ARGOS:
+    from argostranslate import translate as _argos_translate
+else:
+    _argos_translate = None
 
-_cc = OpenCC("s2twp")  # 簡體 → 繁體（台灣）
+if _HAS_OPENCC:
+    from opencc import OpenCC
+    _cc = OpenCC("s2twp")
+else:
+    _cc = None
+
+
+def _to_zh_tw(text: str) -> str:
+    if not text:
+        return ""
+    zh = text
+    if _argos_translate is not None:
+        try:
+            zh = _argos_translate.translate(text, "en", "zh") or text
+        except Exception:
+            zh = text
+    if _cc is not None:
+        zh = _cc.convert(zh)
+    for k, v in TW_NEWS_TERMS.items():
+        zh = zh.replace(k, v)
+    return zh
+
 
 def translate_titles_zh_tw(items: List[Dict]) -> List[Dict]:
-    results = []
-
+    out = []
     for item in items:
-        title_en = item.get("title", "").strip()
-        title_zh = ""
-
-        if title_en:
-            try:
-                zh = translate.translate(title_en, "en", "zh")
-                if zh:
-                    title_zh = _cc.convert(zh.strip())
-
-                    # 台灣新聞慣用詞優化
-                    for k, v in TW_NEWS_TERMS.items():
-                        title_zh = title_zh.replace(k, v)
-
-            except Exception as e:
-                print(f"⚠️ translate failed: {e}")
-
-        item["title_zh"] = title_zh
-        results.append(item)
-
-    return results
+        title = (item.get("title") or item.get("title_en") or "").strip()
+        item["title_zh"] = _to_zh_tw(title)
+        out.append(item)
+    return out
