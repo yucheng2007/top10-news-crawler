@@ -1,12 +1,162 @@
 [
-  {"title":"OpenAI launches new enterprise AI workflow updates","title_en":"OpenAI launches new enterprise AI workflow updates","summary":"聚焦企業導入流程自動化與代理人協作，降低部署成本並提升資料治理能力。","source_count":1,"sources":["OpenAI Blog"],"source_links":[{"name":"OpenAI Blog","url":"https://openai.com/news/"}],"representative_link":"https://openai.com/news/"},
-  {"title":"NVIDIA expands Blackwell ecosystem for AI infrastructure","title_en":"NVIDIA expands Blackwell ecosystem for AI infrastructure","summary":"GPU、網路與軟體堆疊同步擴展，主打訓練與推論一體化的資料中心部署。","source_count":1,"sources":["NVIDIA News"],"source_links":[{"name":"NVIDIA News","url":"https://nvidianews.nvidia.com/"}],"representative_link":"https://nvidianews.nvidia.com/"},
-  {"title":"Google DeepMind shares multimodal model progress","title_en":"Google DeepMind shares multimodal model progress","summary":"多模態模型在推理、代理操作與工具使用能力上持續提升，並強調安全評估。","source_count":1,"sources":["Google Blog"],"source_links":[{"name":"Google Blog","url":"https://blog.google/"}],"representative_link":"https://blog.google/"},
-  {"title":"Microsoft introduces new Copilot capabilities for productivity","title_en":"Microsoft introduces new Copilot capabilities for productivity","summary":"新功能強調文件理解、會議摘要與跨應用流程整合，提升知識工作效率。","source_count":1,"sources":["Microsoft News"],"source_links":[{"name":"Microsoft News","url":"https://news.microsoft.com/"}],"representative_link":"https://news.microsoft.com/"},
-  {"title":"Anthropic details model safety and constitutional AI updates","title_en":"Anthropic details model safety and constitutional AI updates","summary":"公布安全對齊與紅隊測試進展，並說明模型行為可控性的改進方向。","source_count":1,"sources":["Anthropic News"],"source_links":[{"name":"Anthropic News","url":"https://www.anthropic.com/news"}],"representative_link":"https://www.anthropic.com/news"},
-  {"title":"TSMC reports advanced packaging demand driven by AI chips","title_en":"TSMC reports advanced packaging demand driven by AI chips","summary":"先進封裝產能持續吃緊，AI 晶片需求帶動供應鏈投資與交期管理。","source_count":1,"sources":["TSMC"],"source_links":[{"name":"TSMC","url":"https://www.tsmc.com/english/news"}],"representative_link":"https://www.tsmc.com/english/news"},
-  {"title":"AMD announces new AI accelerator roadmap","title_en":"AMD announces new AI accelerator roadmap","summary":"聚焦資料中心 AI 加速器與軟體生態，提升與主流框架的相容與效能。","source_count":1,"sources":["AMD News"],"source_links":[{"name":"AMD News","url":"https://www.amd.com/en/newsroom"}],"representative_link":"https://www.amd.com/en/newsroom"},
-  {"title":"Meta open-sources new tools for AI developer workflows","title_en":"Meta open-sources new tools for AI developer workflows","summary":"開源工具改善模型調校、推論監控與應用整合，降低團隊開發門檻。","source_count":1,"sources":["Meta Newsroom"],"source_links":[{"name":"Meta Newsroom","url":"https://about.fb.com/news/"}],"representative_link":"https://about.fb.com/news/"},
-  {"title":"AWS highlights generative AI services for enterprise adoption","title_en":"AWS highlights generative AI services for enterprise adoption","summary":"以託管模型與資料治理能力為主軸，協助企業快速導入生成式 AI。","source_count":1,"sources":["AWS News"],"source_links":[{"name":"AWS News","url":"https://aws.amazon.com/blogs/aws/"}],"representative_link":"https://aws.amazon.com/blogs/aws/"},
-  {"title":"Taiwan iThome tracks local AI transformation case studies","title_en":"Taiwan iThome tracks local AI transformation case studies","summary":"整理台灣企業在客服、製造與內控場景的 AI 導入案例與實務挑戰。","source_count":1,"sources":["iThome"],"source_links":[{"name":"iThome","url":"https://www.ithome.com.tw/"}],"representative_link":"https://www.ithome.com.tw/"}
+  {
+    "title": "OpenAI launches new enterprise AI workflow updates",
+    "title_en": "OpenAI launches new enterprise AI workflow updates",
+    "summary": "聚焦企業導入流程自動化與代理人協作，降低部署成本並提升資料治理能力。",
+    "source_count": 1,
+    "sources": [
+      "OpenAI Blog"
+    ],
+    "source_links": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=OpenAI%20launches%20new%20enterprise%20AI%20workflow%20updates"
+      }
+    ],
+    "representative_link": "https://news.google.com/search?q=OpenAI%20launches%20new%20enterprise%20AI%20workflow%20updates"
+  },
+  {
+    "title": "NVIDIA expands Blackwell ecosystem for AI infrastructure",
+    "title_en": "NVIDIA expands Blackwell ecosystem for AI infrastructure",
+    "summary": "GPU、網路與軟體堆疊同步擴展，主打訓練與推論一體化的資料中心部署。",
+    "source_count": 1,
+    "sources": [
+      "NVIDIA News"
+    ],
+    "source_links": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=NVIDIA%20expands%20Blackwell%20ecosystem%20for%20AI%20infrastructure"
+      }
+    ],
+    "representative_link": "https://news.google.com/search?q=NVIDIA%20expands%20Blackwell%20ecosystem%20for%20AI%20infrastructure"
+  },
+  {
+    "title": "Google DeepMind shares multimodal model progress",
+    "title_en": "Google DeepMind shares multimodal model progress",
+    "summary": "多模態模型在推理、代理操作與工具使用能力上持續提升，並強調安全評估。",
+    "source_count": 1,
+    "sources": [
+      "Google Blog"
+    ],
+    "source_links": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=Google%20DeepMind%20shares%20multimodal%20model%20progress"
+      }
+    ],
+    "representative_link": "https://news.google.com/search?q=Google%20DeepMind%20shares%20multimodal%20model%20progress"
+  },
+  {
+    "title": "Microsoft introduces new Copilot capabilities for productivity",
+    "title_en": "Microsoft introduces new Copilot capabilities for productivity",
+    "summary": "新功能強調文件理解、會議摘要與跨應用流程整合，提升知識工作效率。",
+    "source_count": 1,
+    "sources": [
+      "Microsoft News"
+    ],
+    "source_links": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=Microsoft%20introduces%20new%20Copilot%20capabilities%20for%20productivity"
+      }
+    ],
+    "representative_link": "https://news.google.com/search?q=Microsoft%20introduces%20new%20Copilot%20capabilities%20for%20productivity"
+  },
+  {
+    "title": "Anthropic details model safety and constitutional AI updates",
+    "title_en": "Anthropic details model safety and constitutional AI updates",
+    "summary": "公布安全對齊與紅隊測試進展，並說明模型行為可控性的改進方向。",
+    "source_count": 1,
+    "sources": [
+      "Anthropic News"
+    ],
+    "source_links": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=Anthropic%20details%20model%20safety%20and%20constitutional%20AI%20updates"
+      }
+    ],
+    "representative_link": "https://news.google.com/search?q=Anthropic%20details%20model%20safety%20and%20constitutional%20AI%20updates"
+  },
+  {
+    "title": "TSMC reports advanced packaging demand driven by AI chips",
+    "title_en": "TSMC reports advanced packaging demand driven by AI chips",
+    "summary": "先進封裝產能持續吃緊，AI 晶片需求帶動供應鏈投資與交期管理。",
+    "source_count": 1,
+    "sources": [
+      "TSMC"
+    ],
+    "source_links": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=TSMC%20reports%20advanced%20packaging%20demand%20driven%20by%20AI%20chips"
+      }
+    ],
+    "representative_link": "https://news.google.com/search?q=TSMC%20reports%20advanced%20packaging%20demand%20driven%20by%20AI%20chips"
+  },
+  {
+    "title": "AMD announces new AI accelerator roadmap",
+    "title_en": "AMD announces new AI accelerator roadmap",
+    "summary": "聚焦資料中心 AI 加速器與軟體生態，提升與主流框架的相容與效能。",
+    "source_count": 1,
+    "sources": [
+      "AMD News"
+    ],
+    "source_links": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=AMD%20announces%20new%20AI%20accelerator%20roadmap"
+      }
+    ],
+    "representative_link": "https://news.google.com/search?q=AMD%20announces%20new%20AI%20accelerator%20roadmap"
+  },
+  {
+    "title": "Meta open-sources new tools for AI developer workflows",
+    "title_en": "Meta open-sources new tools for AI developer workflows",
+    "summary": "開源工具改善模型調校、推論監控與應用整合，降低團隊開發門檻。",
+    "source_count": 1,
+    "sources": [
+      "Meta Newsroom"
+    ],
+    "source_links": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=Meta%20open-sources%20new%20tools%20for%20AI%20developer%20workflows"
+      }
+    ],
+    "representative_link": "https://news.google.com/search?q=Meta%20open-sources%20new%20tools%20for%20AI%20developer%20workflows"
+  },
+  {
+    "title": "AWS highlights generative AI services for enterprise adoption",
+    "title_en": "AWS highlights generative AI services for enterprise adoption",
+    "summary": "以託管模型與資料治理能力為主軸，協助企業快速導入生成式 AI。",
+    "source_count": 1,
+    "sources": [
+      "AWS News"
+    ],
+    "source_links": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=AWS%20highlights%20generative%20AI%20services%20for%20enterprise%20adoption"
+      }
+    ],
+    "representative_link": "https://news.google.com/search?q=AWS%20highlights%20generative%20AI%20services%20for%20enterprise%20adoption"
+  },
+  {
+    "title": "Taiwan iThome tracks local AI transformation case studies",
+    "title_en": "Taiwan iThome tracks local AI transformation case studies",
+    "summary": "整理台灣企業在客服、製造與內控場景的 AI 導入案例與實務挑戰。",
+    "source_count": 1,
+    "sources": [
+      "iThome"
+    ],
+    "source_links": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=Taiwan%20iThome%20tracks%20local%20AI%20transformation%20case%20studies"
+      }
+    ],
+    "representative_link": "https://news.google.com/search?q=Taiwan%20iThome%20tracks%20local%20AI%20transformation%20case%20studies"
+  }
 ]

@@ -9,11 +9,11 @@
     ],
     "source_links": [
       {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com/news/"
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=OpenAI%20launches%20new%20enterprise%20AI%20workflow%20updates"
       }
     ],
-    "representative_link": "https://openai.com/news/",
+    "representative_link": "https://news.google.com/search?q=OpenAI%20launches%20new%20enterprise%20AI%20workflow%20updates",
     "title_zh": "OpenAI launches new enterprise AI workflow updates"
   },
   {
@@ -26,11 +26,11 @@
     ],
     "source_links": [
       {
-        "name": "NVIDIA News",
-        "url": "https://nvidianews.nvidia.com/"
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=NVIDIA%20expands%20Blackwell%20ecosystem%20for%20AI%20infrastructure"
       }
     ],
-    "representative_link": "https://nvidianews.nvidia.com/",
+    "representative_link": "https://news.google.com/search?q=NVIDIA%20expands%20Blackwell%20ecosystem%20for%20AI%20infrastructure",
     "title_zh": "NVIDIA expands Blackwell ecosystem for AI infrastructure"
   },
   {
@@ -43,11 +43,11 @@
     ],
     "source_links": [
       {
-        "name": "Google Blog",
-        "url": "https://blog.google/"
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=Google%20DeepMind%20shares%20multimodal%20model%20progress"
       }
     ],
-    "representative_link": "https://blog.google/",
+    "representative_link": "https://news.google.com/search?q=Google%20DeepMind%20shares%20multimodal%20model%20progress",
     "title_zh": "Google DeepMind shares multimodal model progress"
   },
   {
@@ -60,11 +60,11 @@
     ],
     "source_links": [
       {
-        "name": "Microsoft News",
-        "url": "https://news.microsoft.com/"
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=Microsoft%20introduces%20new%20Copilot%20capabilities%20for%20productivity"
       }
     ],
-    "representative_link": "https://news.microsoft.com/",
+    "representative_link": "https://news.google.com/search?q=Microsoft%20introduces%20new%20Copilot%20capabilities%20for%20productivity",
     "title_zh": "Microsoft introduces new Copilot capabilities for productivity"
   },
   {
@@ -77,11 +77,11 @@
     ],
     "source_links": [
       {
-        "name": "Anthropic News",
-        "url": "https://www.anthropic.com/news"
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=Anthropic%20details%20model%20safety%20and%20constitutional%20AI%20updates"
       }
     ],
-    "representative_link": "https://www.anthropic.com/news",
+    "representative_link": "https://news.google.com/search?q=Anthropic%20details%20model%20safety%20and%20constitutional%20AI%20updates",
     "title_zh": "Anthropic details model safety and constitutional AI updates"
   },
   {
@@ -94,11 +94,11 @@
     ],
     "source_links": [
       {
-        "name": "TSMC",
-        "url": "https://www.tsmc.com/english/news"
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=TSMC%20reports%20advanced%20packaging%20demand%20driven%20by%20AI%20chips"
       }
     ],
-    "representative_link": "https://www.tsmc.com/english/news",
+    "representative_link": "https://news.google.com/search?q=TSMC%20reports%20advanced%20packaging%20demand%20driven%20by%20AI%20chips",
     "title_zh": "TSMC reports advanced packaging demand driven by AI chips"
   },
   {
@@ -111,11 +111,11 @@
     ],
     "source_links": [
       {
-        "name": "AMD News",
-        "url": "https://www.amd.com/en/newsroom"
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=AMD%20announces%20new%20AI%20accelerator%20roadmap"
       }
     ],
-    "representative_link": "https://www.amd.com/en/newsroom",
+    "representative_link": "https://news.google.com/search?q=AMD%20announces%20new%20AI%20accelerator%20roadmap",
     "title_zh": "AMD announces new AI accelerator roadmap"
   },
   {
@@ -128,11 +128,11 @@
     ],
     "source_links": [
       {
-        "name": "Meta Newsroom",
-        "url": "https://about.fb.com/news/"
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=Meta%20open-sources%20new%20tools%20for%20AI%20developer%20workflows"
       }
     ],
-    "representative_link": "https://about.fb.com/news/",
+    "representative_link": "https://news.google.com/search?q=Meta%20open-sources%20new%20tools%20for%20AI%20developer%20workflows",
     "title_zh": "Meta open-sources new tools for AI developer workflows"
   },
   {
@@ -145,11 +145,11 @@
     ],
     "source_links": [
       {
-        "name": "AWS News",
-        "url": "https://aws.amazon.com/blogs/aws/"
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=AWS%20highlights%20generative%20AI%20services%20for%20enterprise%20adoption"
       }
     ],
-    "representative_link": "https://aws.amazon.com/blogs/aws/",
+    "representative_link": "https://news.google.com/search?q=AWS%20highlights%20generative%20AI%20services%20for%20enterprise%20adoption",
     "title_zh": "AWS highlights generative AI services for enterprise adoption"
   },
   {
@@ -162,11 +162,11 @@
     ],
     "source_links": [
       {
-        "name": "iThome",
-        "url": "https://www.ithome.com.tw/"
+        "name": "Google News",
+        "url": "https://news.google.com/search?q=Taiwan%20iThome%20tracks%20local%20AI%20transformation%20case%20studies"
       }
     ],
-    "representative_link": "https://www.ithome.com.tw/",
+    "representative_link": "https://news.google.com/search?q=Taiwan%20iThome%20tracks%20local%20AI%20transformation%20case%20studies",
     "title_zh": "Taiwan iThome tracks local AI transformation case studies"
   }
 ]
