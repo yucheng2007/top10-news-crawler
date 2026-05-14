@@ -9,57 +9,83 @@
 
 # Top 10 News
 
-1. **Tell us your favourite film of 2025**
-   - TW：告訴我們你最喜歡的2025年電影
+1. **OpenAI launches new enterprise AI workflow updates**
+   - TW：OpenAI launches new enterprise AI workflow updates
+   - 대표連結: https://openai.com/news/
    - 來源數: 1
-   - 來源: The Guardian - International
+   - 來源:
+     - [OpenAI Blog] https://openai.com/news/
 
-2. **'Maybe she's an angel now' says aunt of Bondi victim, 10, at funeral**
-   - TW：也許她現在是個天使了 邦迪的姑姑說 10歲 在葬禮上
+2. **NVIDIA expands Blackwell ecosystem for AI infrastructure**
+   - TW：NVIDIA expands Blackwell ecosystem for AI infrastructure
+   - 대표連結: https://nvidianews.nvidia.com/
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [NVIDIA News] https://nvidianews.nvidia.com/
 
-3. **Australian PM announces crackdown on hate speech after Bondi shooting**
-   - TW：澳洲總理宣佈鎮壓邦迪槍擊後的仇恨言論。
+3. **Google DeepMind shares multimodal model progress**
+   - TW：Google DeepMind shares multimodal model progress
+   - 대표連結: https://blog.google/
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [Google Blog] https://blog.google/
 
-4. **EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine**
-   - TW：歐盟領導人面臨將俄羅斯凍結的現金借給烏克蘭的緊縮決定
+4. **Microsoft introduces new Copilot capabilities for productivity**
+   - TW：Microsoft introduces new Copilot capabilities for productivity
+   - 대표連結: https://news.microsoft.com/
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [Microsoft News] https://news.microsoft.com/
 
-5. **French anaesthetist who poisoned 12 patients to death jailed for life**
-   - TW：法國麻醉師毒死12名病人 終身監禁
+5. **Anthropic details model safety and constitutional AI updates**
+   - TW：Anthropic details model safety and constitutional AI updates
+   - 대표連結: https://www.anthropic.com/news
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [Anthropic News] https://www.anthropic.com/news
 
-6. **Rob Reiner's family breaks silence as son Nick faces judge on murder charges**
-   - TW：Rob Reiner的家人首度發聲 兒子Nick面對謀殺指控的法官
+6. **TSMC reports advanced packaging demand driven by AI chips**
+   - TW：TSMC reports advanced packaging demand driven by AI chips
+   - 대표連結: https://www.tsmc.com/english/news
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [TSMC] https://www.tsmc.com/english/news
 
-7. **Watch: Moment Nick Reiner is arrested after being seen in convenience store**
-   - TW：注意: 在便利店裡看到Nick Reiner後被捕了
+7. **AMD announces new AI accelerator roadmap**
+   - TW：AMD announces new AI accelerator roadmap
+   - 대표連結: https://www.amd.com/en/newsroom
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [AMD News] https://www.amd.com/en/newsroom
 
-8. **Dan Bongino stepping down as FBI deputy director**
-   - TW：丹邦吉諾辭去聯邦調查局副局長
+8. **Meta open-sources new tools for AI developer workflows**
+   - TW：Meta open-sources new tools for AI developer workflows
+   - 대표連結: https://about.fb.com/news/
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [Meta Newsroom] https://about.fb.com/news/
 
-9. **Venezuela denounces Trump's order for ship blockade as 'warmongering threats'**
-   - TW：委內瑞拉譴責川普下令封鎖船隻,
+9. **AWS highlights generative AI services for enterprise adoption**
+   - TW：AWS highlights generative AI services for enterprise adoption
+   - 대표連結: https://aws.amazon.com/blogs/aws/
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [AWS News] https://aws.amazon.com/blogs/aws/
 
-10. **Heavy rains worsen conditions for displaced Gazans, UN warns**
-   - TW：聯合國警告說,
+10. **Taiwan iThome tracks local AI transformation case studies**
+   - TW：Taiwan iThome tracks local AI transformation case studies
+   - 대표連結: https://www.ithome.com.tw/
    - 來源數: 1
-   - 來源: BBC World
+   - 來源:
+     - [iThome] https://www.ithome.com.tw/
 
 <!-- TOP10_NEWS_END -->
+
+
+## 靜態網站（AI Top10 每日更新）
+- 產生頁面：`docs/index.html`（圖文卡片呈現 + Reference 連結）
+- 建議網址（啟用 GitHub Pages 後）：`https://<your-github-username>.github.io/top10-news-crawler/`
+- 每日自動更新：`.github/workflows/daily-ai-top10.yml`（UTC 00:05 執行）
 
 ## Outputs
 - `outputs/top10.json`
