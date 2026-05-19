@@ -1,172 +1,202 @@
 [
   {
-    "title": "Global regulators tighten AI disclosure and safety requirements",
-    "title_en": "Global regulators tighten AI disclosure and safety requirements",
-    "summary": "多國監管機構更新 AI 透明度與風險揭露規範，企業需強化模型治理與稽核流程。",
+    "title": "AI Chip Startup Tenstorrent Draws Takeover Interest From Intel, Qualcomm",
+    "title_en": "AI Chip Startup Tenstorrent Draws Takeover Interest From Intel, Qualcomm",
+    "summary": "Artificial intelligence chip startup Tenstorrent Inc. is drawing early takeover interest from prospective buyers at a moment of renewed momentum for upstarts looking to challenge Nvidia Corp. and Advanced Micro Devices Inc.",
+    "score": 11.0,
     "source_count": 1,
     "sources": [
-      "Reuters"
-    ],
-    "source_links": [
-      {
-        "name": "Reuters AI",
-        "url": "https://www.reuters.com/world/artificial-intelligence/"
-      }
-    ],
-    "representative_link": "https://www.reuters.com/world/artificial-intelligence/",
-    "title_zh": "Global regulators tighten AI disclosure and safety requirements"
-  },
-  {
-    "title": "AP tracks newsroom adoption of generative AI tools",
-    "title_en": "AP tracks newsroom adoption of generative AI tools",
-    "summary": "新聞機構加速導入生成式 AI 於整理、標註與多語內容製作，但仍以編輯把關為核心。",
-    "source_count": 1,
-    "sources": [
-      "Associated Press"
-    ],
-    "source_links": [
-      {
-        "name": "AP Technology",
-        "url": "https://apnews.com/technology"
-      }
-    ],
-    "representative_link": "https://apnews.com/technology",
-    "title_zh": "AP tracks newsroom adoption of generative AI tools"
-  },
-  {
-    "title": "Bloomberg highlights AI capital spending by hyperscalers",
-    "title_en": "Bloomberg highlights AI capital spending by hyperscalers",
-    "summary": "大型雲端與平台公司持續擴大 AI 基礎設施投資，市場關注資本支出回收與獲利節奏。",
-    "source_count": 1,
-    "sources": [
-      "Bloomberg"
+      "Bloomberg Technology"
     ],
     "source_links": [
       {
         "name": "Bloomberg Technology",
-        "url": "https://www.bloomberg.com/technology"
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm"
       }
     ],
-    "representative_link": "https://www.bloomberg.com/technology",
-    "title_zh": "Bloomberg highlights AI capital spending by hyperscalers"
+    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm",
+    "published_at": "Mon, 18 May 2026 21:19:36 GMT",
+    "title_zh": "AI Chip Startup Tenstorrent Draws Takeover Interest From Intel, Qualcomm"
   },
   {
-    "title": "Financial Times examines enterprise AI strategy and governance",
-    "title_en": "Financial Times examines enterprise AI strategy and governance",
-    "summary": "企業在導入 AI 時，逐步從試點轉向規模化，並把資料治理與責任分工列為決策重點。",
+    "title": "Vera Arrives: NVIDIAâs First CPU Built for Agents Lands at Top AI Labs",
+    "title_en": "Vera Arrives: NVIDIAâs First CPU Built for Agents Lands at Top AI Labs",
+    "summary": "The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday â Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto â followed by a delivery to Oracle Cloud Infrastructure in Santa Clara on Monday. NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck hand-delivered them.",
+    "score": 11.0,
     "source_count": 1,
     "sources": [
-      "Financial Times"
+      "NVIDIA News"
     ],
     "source_links": [
       {
-        "name": "FT Technology",
-        "url": "https://www.ft.com/technology"
+        "name": "NVIDIA News",
+        "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/"
       }
     ],
-    "representative_link": "https://www.ft.com/technology",
-    "title_zh": "Financial Times examines enterprise AI strategy and governance"
+    "representative_link": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+    "published_at": "Mon, 18 May 2026 21:48:17 GMT",
+    "title_zh": "Vera Arrives: NVIDIAâs First CPU Built for Agents Lands at Top AI Labs"
   },
   {
-    "title": "WSJ reports intense AI talent competition across big tech",
-    "title_en": "WSJ reports intense AI talent competition across big tech",
-    "summary": "科技巨頭在模型、晶片與產品落地上競爭加劇，帶動 AI 人才薪資與併購動態升溫。",
+    "title": "Nvidia Supplier SK Hynix Posts Record Profit on AI Boom",
+    "title_en": "Nvidia Supplier SK Hynix Posts Record Profit on AI Boom",
+    "summary": "The South Korean memory-chip maker reported record quarterly and annual results after stronger-than-expected earnings for the final quarter of 2024 on robust chip demand.",
+    "score": 11.0,
     "source_count": 1,
     "sources": [
-      "WSJ"
+      "WSJ Technology"
     ],
     "source_links": [
       {
-        "name": "WSJ Tech",
-        "url": "https://www.wsj.com/tech"
+        "name": "WSJ Technology",
+        "url": "https://www.wsj.com/articles/sk-hynix-posts-strong-fourth-quarter-net-profit-on-ai-boom-6f32e38b?mod=rss_Technology"
       }
     ],
-    "representative_link": "https://www.wsj.com/tech",
-    "title_zh": "WSJ reports intense AI talent competition across big tech"
+    "representative_link": "https://www.wsj.com/articles/sk-hynix-posts-strong-fourth-quarter-net-profit-on-ai-boom-6f32e38b?mod=rss_Technology",
+    "url": "https://www.wsj.com/articles/sk-hynix-posts-strong-fourth-quarter-net-profit-on-ai-boom-6f32e38b?mod=rss_Technology",
+    "published_at": "Wed, 22 Jan 2025 21:04:00 -0500",
+    "title_zh": "Nvidia Supplier SK Hynix Posts Record Profit on AI Boom"
   },
   {
-    "title": "Reuters covers AI chip supply and advanced packaging constraints",
-    "title_en": "Reuters covers AI chip supply and advanced packaging constraints",
-    "summary": "AI 晶片需求維持高檔，先進封裝與供應鏈交期管理成為半導體產業焦點。",
+    "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: âDemand Is Going Parabolic, Utterly Parabolicâ",
+    "title_en": "NVIDIA CEO Jensen Huang at Dell Technologies World: âDemand Is Going Parabolic, Utterly Parabolicâ",
+    "summary": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs â while enterprise data queries are up to 3x faster with the Vera CPU. And 5,000 enterprises like Lilly, Samsung, and Honeywell are running AI workloads on Dell AI Factories [â¦]",
+    "score": 11.0,
     "source_count": 1,
     "sources": [
-      "Reuters"
+      "NVIDIA News"
     ],
     "source_links": [
       {
-        "name": "Reuters Technology",
-        "url": "https://www.reuters.com/technology/"
+        "name": "NVIDIA News",
+        "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/"
       }
     ],
-    "representative_link": "https://www.reuters.com/technology/",
-    "title_zh": "Reuters covers AI chip supply and advanced packaging constraints"
+    "representative_link": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
+    "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
+    "published_at": "Mon, 18 May 2026 22:28:00 GMT",
+    "title_zh": "NVIDIA CEO Jensen Huang at Dell Technologies World: âDemand Is Going Parabolic, Utterly Parabolicâ"
   },
   {
-    "title": "Bloomberg tracks monetization pressure on consumer AI products",
-    "title_en": "Bloomberg tracks monetization pressure on consumer AI products",
-    "summary": "消費端 AI 產品從使用者成長走向商業化驗證，訂閱模式與企業合作是主要觀察指標。",
+    "title": "Nvidia’s CEO Sees China Opening Market to AI Chips From US",
+    "title_en": "Nvidia’s CEO Sees China Opening Market to AI Chips From US",
+    "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang, speaking days after he joined President Donald Trump’s summit in China, said he expects Chinese authorities to eventually allow the import of artificial intelligence chips from the US.",
+    "score": 11.0,
     "source_count": 1,
     "sources": [
-      "Bloomberg"
+      "Bloomberg Technology"
     ],
     "source_links": [
       {
-        "name": "Bloomberg AI",
-        "url": "https://www.bloomberg.com/ai"
+        "name": "Bloomberg Technology",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us"
       }
     ],
-    "representative_link": "https://www.bloomberg.com/ai",
-    "title_zh": "Bloomberg tracks monetization pressure on consumer AI products"
+    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us",
+    "published_at": "Mon, 18 May 2026 19:25:18 GMT",
+    "title_zh": "Nvidia’s CEO Sees China Opening Market to AI Chips From US"
   },
   {
-    "title": "FT analyzes policy impact on cross-border AI model deployment",
-    "title_en": "FT analyzes policy impact on cross-border AI model deployment",
-    "summary": "跨境模型部署須因應在地法規與資料主權要求，企業逐步採取區域化 AI 架構。",
+    "title": "Dell Scales Up the AI Supply Chain to Meet Demand",
+    "title_en": "Dell Scales Up the AI Supply Chain to Meet Demand",
+    "summary": "Dell Technologies Inc. Chief Executive Officer Michael Dell and Nvidia CEO Jensen Huang talk about how they work together on Dell's AI Factory which uses servers with Nvidia chips, software and services. They speak to Bloomberg's Ed Ludlow at the Dell World conference in Las Vegas. (Source: Bloomberg)",
+    "score": 11.0,
     "source_count": 1,
     "sources": [
-      "Financial Times"
+      "Bloomberg Technology"
     ],
     "source_links": [
       {
-        "name": "FT AI",
-        "url": "https://www.ft.com/artificial-intelligence"
+        "name": "Bloomberg Technology",
+        "url": "https://www.bloomberg.com/news/videos/2026-05-18/dell-scales-up-the-ai-supply-chain-to-meet-demand-video"
       }
     ],
-    "representative_link": "https://www.ft.com/artificial-intelligence",
-    "title_zh": "FT analyzes policy impact on cross-border AI model deployment"
+    "representative_link": "https://www.bloomberg.com/news/videos/2026-05-18/dell-scales-up-the-ai-supply-chain-to-meet-demand-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-18/dell-scales-up-the-ai-supply-chain-to-meet-demand-video",
+    "published_at": "Mon, 18 May 2026 20:35:41 GMT",
+    "title_zh": "Dell Scales Up the AI Supply Chain to Meet Demand"
   },
   {
-    "title": "AP reviews AI use in public services and civic operations",
-    "title_en": "AP reviews AI use in public services and civic operations",
-    "summary": "公共部門導入 AI 著重效率與服務品質，同時必須建立公平性與問責機制。",
+    "title": "Google, Blackstone to Create AI Cloud Firm With In-House Chips",
+    "title_en": "Google, Blackstone to Create AI Cloud Firm With In-House Chips",
+    "summary": "Alphabet Inc.’s Google agreed to create an artificial intelligence cloud business with Blackstone Inc., aiming to compete with companies like CoreWeave Inc. in a burgeoning market.",
+    "score": 11.0,
     "source_count": 1,
     "sources": [
-      "Associated Press"
+      "Bloomberg Technology"
     ],
     "source_links": [
       {
-        "name": "AP Data/Tech",
-        "url": "https://apnews.com/data-and-technology"
+        "name": "Bloomberg Technology",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says"
       }
     ],
-    "representative_link": "https://apnews.com/data-and-technology",
-    "title_zh": "AP reviews AI use in public services and civic operations"
+    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
+    "published_at": "Tue, 19 May 2026 00:15:43 GMT",
+    "title_zh": "Google, Blackstone to Create AI Cloud Firm With In-House Chips"
   },
   {
-    "title": "WSJ details enterprise demand for secure private AI deployments",
-    "title_en": "WSJ details enterprise demand for secure private AI deployments",
-    "summary": "企業偏好私有化與可控的 AI 部署方式，以兼顧資料安全、合規與可觀測性。",
+    "title": "Self-Improving AI Startup Recursive AI Valued at $4.65B",
+    "title_en": "Self-Improving AI Startup Recursive AI Valued at $4.65B",
+    "summary": "Recursive, a startup creating AI that conducts experiments on how to safely improve itself, just came out of stealth. The company is valued at $4.65 billion, with backers including Google Ventures, Greycroft, Nvidia and AMD Ventures. Recursive CEO Richard Socher joins Caroline Hyde on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "score": 11.0,
     "source_count": 1,
     "sources": [
-      "WSJ"
+      "Bloomberg Technology"
     ],
     "source_links": [
       {
-        "name": "WSJ CIO/Tech",
-        "url": "https://www.wsj.com/tech"
+        "name": "Bloomberg Technology",
+        "url": "https://www.bloomberg.com/news/videos/2026-05-18/self-improving-ai-startup-recursive-ai-valued-at-4-65b-video"
       }
     ],
-    "representative_link": "https://www.wsj.com/tech",
-    "title_zh": "WSJ details enterprise demand for secure private AI deployments"
+    "representative_link": "https://www.bloomberg.com/news/videos/2026-05-18/self-improving-ai-startup-recursive-ai-valued-at-4-65b-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-18/self-improving-ai-startup-recursive-ai-valued-at-4-65b-video",
+    "published_at": "Mon, 18 May 2026 19:39:02 GMT",
+    "title_zh": "Self-Improving AI Startup Recursive AI Valued at $4.65B"
+  },
+  {
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "title_en": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+    "score": 11.0,
+    "source_count": 1,
+    "sources": [
+      "TechCrunch"
+    ],
+    "source_links": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
+      }
+    ],
+    "representative_link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "published_at": "Mon, 18 May 2026 19:27:52 +0000",
+    "title_zh": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare"
+  },
+  {
+    "title": "IREN CEO: Have Great Relationship With Dell and Nvidia",
+    "title_en": "IREN CEO: Have Great Relationship With Dell and Nvidia",
+    "summary": "IREN, a vertically integrated AI cloud provider, recently announced a strategic partnership with Nvidia for up to $2.1 billion as part of a broader agreement between the two companies aimed at accelerating the construction of AI infrastructure. IREN CEO Daniel Roberts joins Ed Ludlow on the sidelines of Dell Technologies World in Las Vegas to discuss on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "score": 11.0,
+    "source_count": 1,
+    "sources": [
+      "Bloomberg Technology"
+    ],
+    "source_links": [
+      {
+        "name": "Bloomberg Technology",
+        "url": "https://www.bloomberg.com/news/videos/2026-05-18/iren-ceo-have-great-relationship-with-dell-and-nvidia-video"
+      }
+    ],
+    "representative_link": "https://www.bloomberg.com/news/videos/2026-05-18/iren-ceo-have-great-relationship-with-dell-and-nvidia-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-18/iren-ceo-have-great-relationship-with-dell-and-nvidia-video",
+    "published_at": "Mon, 18 May 2026 19:43:46 GMT",
+    "title_zh": "IREN CEO: Have Great Relationship With Dell and Nvidia"
   }
 ]
