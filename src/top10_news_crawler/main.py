@@ -1,4 +1,4 @@
-﻿from __future__ import annotations
+from __future__ import annotations
 
 import argparse
 import json
@@ -11,6 +11,15 @@ from top10_news_crawler.pipeline.export import export_md
 from top10_news_crawler.pipeline.parse import load_sources_config
 from top10_news_crawler.pipeline.translate import translate_titles_zh_tw
 from top10_news_crawler.pipeline.filter import pick_with_fill
+
+
+def _load_fallback(top: int) -> list[dict]:
+    fp = Path(__file__).resolve().parents[0] / "config" / "fallback_top10.json"
+    if not fp.exists():
+        return []
+    data = json.loads(fp.read_text(encoding="utf-8"))
+    return data[:top]
+
 
 
 def cli() -> None:
@@ -31,7 +40,16 @@ def cli() -> None:
     candidates = pick_with_fill(items, top=args.top)
 
     # ✅ 再排序（依你 rank.py 的邏輯）
-    top_items = rank_top(candidates, args.top)
+    top_items = rank_top(candidates, args.top, sources=sources)
+
+    if len(top_items) < args.top:
+        fallback = _load_fallback(args.top)
+        if fallback:
+            existing = {it.get("title_en") or it.get("title") for it in top_items}
+            for fb in fallback:
+                key = fb.get("title_en") or fb.get("title")
+                if key not in existing and len(top_items) < args.top:
+                    top_items.append(fb)
 
     # ✅ 翻譯（TW）
     top_items = translate_titles_zh_tw(top_items)
