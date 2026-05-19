@@ -20,6 +20,12 @@ dependencies = [
   "argostranslate>=1.9.6"
 ]
 
+[project.optional-dependencies]
+translation = [
+  "opencc-python-reimplemented>=0.1.7",
+  "argostranslate>=1.9.6"
+]
+
 [project.scripts]
 top10 = "top10_news_crawler.main:cli"
 
@@ -29,3 +35,6 @@ package-dir = {"" = "src"}
 [tool.setuptools.packages.find]
 where = ["src"]
 include = ["top10_news_crawler*"]
+
+[tool.setuptools.package-data]
+"top10_news_crawler.config" = ["*.yaml", "*.json"]
