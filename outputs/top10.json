@@ -1,25 +1,5 @@
 [
   {
-    "title": "AI Chip Startup Tenstorrent Draws Takeover Interest From Intel, Qualcomm",
-    "title_en": "AI Chip Startup Tenstorrent Draws Takeover Interest From Intel, Qualcomm",
-    "summary": "Artificial intelligence chip startup Tenstorrent Inc. is drawing early takeover interest from prospective buyers at a moment of renewed momentum for upstarts looking to challenge Nvidia Corp. and Advanced Micro Devices Inc.",
-    "score": 11.0,
-    "source_count": 1,
-    "sources": [
-      "Bloomberg Technology"
-    ],
-    "source_links": [
-      {
-        "name": "Bloomberg Technology",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm"
-      }
-    ],
-    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm",
-    "published_at": "Mon, 18 May 2026 21:19:36 GMT",
-    "title_zh": "AI Chip Startup Tenstorrent Draws Takeover Interest From Intel, Qualcomm"
-  },
-  {
     "title": "Vera Arrives: NVIDIAâs First CPU Built for Agents Lands at Top AI Labs",
     "title_en": "Vera Arrives: NVIDIAâs First CPU Built for Agents Lands at Top AI Labs",
     "summary": "The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday â Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto â followed by a delivery to Oracle Cloud Infrastructure in Santa Clara on Monday. NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck hand-delivered them.",
@@ -80,9 +60,9 @@
     "title_zh": "NVIDIA CEO Jensen Huang at Dell Technologies World: âDemand Is Going Parabolic, Utterly Parabolicâ"
   },
   {
-    "title": "Nvidia’s CEO Sees China Opening Market to AI Chips From US",
-    "title_en": "Nvidia’s CEO Sees China Opening Market to AI Chips From US",
-    "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang, speaking days after he joined President Donald Trump’s summit in China, said he expects Chinese authorities to eventually allow the import of artificial intelligence chips from the US.",
+    "title": "Analog Devices to Acquire Empower in $1.5 Billion Transaction",
+    "title_en": "Analog Devices to Acquire Empower in $1.5 Billion Transaction",
+    "summary": "Analog Devices Inc. agreed to acquire closely held Empower Semiconductor for $1.5 billion in cash as the need skyrockets for efficient chips to power data centers required for artificial intelligence.",
     "score": 11.0,
     "source_count": 1,
     "sources": [
@@ -91,18 +71,58 @@
     "source_links": [
       {
         "name": "Bloomberg Technology",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us"
+        "url": "https://www.bloomberg.com/news/articles/2026-05-19/analog-devices-to-acquire-empower-in-1-5-billion-transaction"
       }
     ],
-    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us",
-    "published_at": "Mon, 18 May 2026 19:25:18 GMT",
-    "title_zh": "Nvidia’s CEO Sees China Opening Market to AI Chips From US"
+    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-19/analog-devices-to-acquire-empower-in-1-5-billion-transaction",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-19/analog-devices-to-acquire-empower-in-1-5-billion-transaction",
+    "published_at": "Tue, 19 May 2026 20:56:57 GMT",
+    "title_zh": "Analog Devices to Acquire Empower in $1.5 Billion Transaction"
   },
   {
-    "title": "Dell Scales Up the AI Supply Chain to Meet Demand",
-    "title_en": "Dell Scales Up the AI Supply Chain to Meet Demand",
-    "summary": "Dell Technologies Inc. Chief Executive Officer Michael Dell and Nvidia CEO Jensen Huang talk about how they work together on Dell's AI Factory which uses servers with Nvidia chips, software and services. They speak to Bloomberg's Ed Ludlow at the Dell World conference in Las Vegas. (Source: Bloomberg)",
+    "title": "The stock market that outpaced Nasdaq’s dotcom-era gains",
+    "title_en": "The stock market that outpaced Nasdaq’s dotcom-era gains",
+    "summary": "South Korea’s Kospi triples in 18 months powered by Samsung and SK Hynix as AI euphoria continues",
+    "score": 11.0,
+    "source_count": 1,
+    "sources": [
+      "Financial Times - Technology"
+    ],
+    "source_links": [
+      {
+        "name": "Financial Times - Technology",
+        "url": "https://www.ft.com/content/a900f970-b919-46f2-98c2-ea3d0df40fce"
+      }
+    ],
+    "representative_link": "https://www.ft.com/content/a900f970-b919-46f2-98c2-ea3d0df40fce",
+    "url": "https://www.ft.com/content/a900f970-b919-46f2-98c2-ea3d0df40fce",
+    "published_at": "Tue, 19 May 2026 23:01:08 GMT",
+    "title_zh": "The stock market that outpaced Nasdaq’s dotcom-era gains"
+  },
+  {
+    "title": "Google to release smart glasses and add AI ‘agents’ to search engine",
+    "title_en": "Google to release smart glasses and add AI ‘agents’ to search engine",
+    "summary": "CEO Sundar Pichai says features powered by new Gemini model will close gap with Anthropic and OpenAI",
+    "score": 11.0,
+    "source_count": 1,
+    "sources": [
+      "Financial Times - Technology"
+    ],
+    "source_links": [
+      {
+        "name": "Financial Times - Technology",
+        "url": "https://www.ft.com/content/c47ab51e-2521-4ccb-9de5-a2b03791981a"
+      }
+    ],
+    "representative_link": "https://www.ft.com/content/c47ab51e-2521-4ccb-9de5-a2b03791981a",
+    "url": "https://www.ft.com/content/c47ab51e-2521-4ccb-9de5-a2b03791981a",
+    "published_at": "Tue, 19 May 2026 20:47:04 GMT",
+    "title_zh": "Google to release smart glasses and add AI ‘agents’ to search engine"
+  },
+  {
+    "title": "Alibaba Unveils New AI Chip for Training and Inferencing",
+    "title_en": "Alibaba Unveils New AI Chip for Training and Inferencing",
+    "summary": "Alibaba Group Holding Ltd. added a new processor to its expanding AI technology stack, enhancing a push to cover every aspect of artificial intelligence development.",
     "score": 11.0,
     "source_count": 1,
     "sources": [
@@ -111,18 +131,38 @@
     "source_links": [
       {
         "name": "Bloomberg Technology",
-        "url": "https://www.bloomberg.com/news/videos/2026-05-18/dell-scales-up-the-ai-supply-chain-to-meet-demand-video"
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/alibaba-unveils-new-ai-chip-for-training-and-inferencing"
       }
     ],
-    "representative_link": "https://www.bloomberg.com/news/videos/2026-05-18/dell-scales-up-the-ai-supply-chain-to-meet-demand-video",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-18/dell-scales-up-the-ai-supply-chain-to-meet-demand-video",
-    "published_at": "Mon, 18 May 2026 20:35:41 GMT",
-    "title_zh": "Dell Scales Up the AI Supply Chain to Meet Demand"
+    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-20/alibaba-unveils-new-ai-chip-for-training-and-inferencing",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/alibaba-unveils-new-ai-chip-for-training-and-inferencing",
+    "published_at": "Wed, 20 May 2026 03:43:07 GMT",
+    "title_zh": "Alibaba Unveils New AI Chip for Training and Inferencing"
   },
   {
-    "title": "Google, Blackstone to Create AI Cloud Firm With In-House Chips",
-    "title_en": "Google, Blackstone to Create AI Cloud Firm With In-House Chips",
-    "summary": "Alphabet Inc.’s Google agreed to create an artificial intelligence cloud business with Blackstone Inc., aiming to compete with companies like CoreWeave Inc. in a burgeoning market.",
+    "title": "Wall Street prepares for boom in tech IPOs after Cerebras’ success",
+    "title_en": "Wall Street prepares for boom in tech IPOs after Cerebras’ success",
+    "summary": "Chip designer’s $6.4bn raise signals demand ahead of huge listings expected from SpaceX, OpenAI and Anthropic",
+    "score": 11.0,
+    "source_count": 1,
+    "sources": [
+      "Financial Times - Technology"
+    ],
+    "source_links": [
+      {
+        "name": "Financial Times - Technology",
+        "url": "https://www.ft.com/content/b839fea1-8563-4a34-b8f0-1c735f23467f"
+      }
+    ],
+    "representative_link": "https://www.ft.com/content/b839fea1-8563-4a34-b8f0-1c735f23467f",
+    "url": "https://www.ft.com/content/b839fea1-8563-4a34-b8f0-1c735f23467f",
+    "published_at": "Tue, 19 May 2026 19:07:47 GMT",
+    "title_zh": "Wall Street prepares for boom in tech IPOs after Cerebras’ success"
+  },
+  {
+    "title": "OpenAI Commits $234 Million for New AI Lab in Singapore",
+    "title_en": "OpenAI Commits $234 Million for New AI Lab in Singapore",
+    "summary": "OpenAI Inc. is setting up an AI lab in Singapore through a multiyear partnership with the local government, part of a broader effort to support the city-state’s artificial intelligence ambitions.",
     "score": 11.0,
     "source_count": 1,
     "sources": [
@@ -131,18 +171,18 @@
     "source_links": [
       {
         "name": "Bloomberg Technology",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says"
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore"
       }
     ],
-    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
-    "published_at": "Tue, 19 May 2026 00:15:43 GMT",
-    "title_zh": "Google, Blackstone to Create AI Cloud Firm With In-House Chips"
+    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore",
+    "published_at": "Wed, 20 May 2026 03:30:00 GMT",
+    "title_zh": "OpenAI Commits $234 Million for New AI Lab in Singapore"
   },
   {
-    "title": "Self-Improving AI Startup Recursive AI Valued at $4.65B",
-    "title_en": "Self-Improving AI Startup Recursive AI Valued at $4.65B",
-    "summary": "Recursive, a startup creating AI that conducts experiments on how to safely improve itself, just came out of stealth. The company is valued at $4.65 billion, with backers including Google Ventures, Greycroft, Nvidia and AMD Ventures. Recursive CEO Richard Socher joins Caroline Hyde on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "title": "Samsung Faces Risk of Chip Disruption After Labor Talks Fail",
+    "title_en": "Samsung Faces Risk of Chip Disruption After Labor Talks Fail",
+    "summary": "Talks between Samsung Electronics Co. and its largest labor union broke down, raising the prospect of a workers’ strike that may disrupt operations at the world’s largest memory chipmaker.",
     "score": 11.0,
     "source_count": 1,
     "sources": [
@@ -151,52 +191,12 @@
     "source_links": [
       {
         "name": "Bloomberg Technology",
-        "url": "https://www.bloomberg.com/news/videos/2026-05-18/self-improving-ai-startup-recursive-ai-valued-at-4-65b-video"
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/samsung-faces-risk-of-chip-disruption-after-labor-talks-collapse"
       }
     ],
-    "representative_link": "https://www.bloomberg.com/news/videos/2026-05-18/self-improving-ai-startup-recursive-ai-valued-at-4-65b-video",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-18/self-improving-ai-startup-recursive-ai-valued-at-4-65b-video",
-    "published_at": "Mon, 18 May 2026 19:39:02 GMT",
-    "title_zh": "Self-Improving AI Startup Recursive AI Valued at $4.65B"
-  },
-  {
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "title_en": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
-    "score": 11.0,
-    "source_count": 1,
-    "sources": [
-      "TechCrunch"
-    ],
-    "source_links": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
-      }
-    ],
-    "representative_link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "published_at": "Mon, 18 May 2026 19:27:52 +0000",
-    "title_zh": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare"
-  },
-  {
-    "title": "IREN CEO: Have Great Relationship With Dell and Nvidia",
-    "title_en": "IREN CEO: Have Great Relationship With Dell and Nvidia",
-    "summary": "IREN, a vertically integrated AI cloud provider, recently announced a strategic partnership with Nvidia for up to $2.1 billion as part of a broader agreement between the two companies aimed at accelerating the construction of AI infrastructure. IREN CEO Daniel Roberts joins Ed Ludlow on the sidelines of Dell Technologies World in Las Vegas to discuss on \"Bloomberg Tech.\" (Source: Bloomberg)",
-    "score": 11.0,
-    "source_count": 1,
-    "sources": [
-      "Bloomberg Technology"
-    ],
-    "source_links": [
-      {
-        "name": "Bloomberg Technology",
-        "url": "https://www.bloomberg.com/news/videos/2026-05-18/iren-ceo-have-great-relationship-with-dell-and-nvidia-video"
-      }
-    ],
-    "representative_link": "https://www.bloomberg.com/news/videos/2026-05-18/iren-ceo-have-great-relationship-with-dell-and-nvidia-video",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-18/iren-ceo-have-great-relationship-with-dell-and-nvidia-video",
-    "published_at": "Mon, 18 May 2026 19:43:46 GMT",
-    "title_zh": "IREN CEO: Have Great Relationship With Dell and Nvidia"
+    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-20/samsung-faces-risk-of-chip-disruption-after-labor-talks-collapse",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/samsung-faces-risk-of-chip-disruption-after-labor-talks-collapse",
+    "published_at": "Wed, 20 May 2026 02:44:21 GMT",
+    "title_zh": "Samsung Faces Risk of Chip Disruption After Labor Talks Fail"
   }
 ]
