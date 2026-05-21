@@ -20,6 +20,26 @@
     "title_zh": "Vera Arrives: NVIDIAâs First CPU Built for Agents Lands at Top AI Labs"
   },
   {
+    "title": "China Chips Still Behind US, Nvidia in Performance: Baillie Gifford",
+    "title_en": "China Chips Still Behind US, Nvidia in Performance: Baillie Gifford",
+    "summary": "Paulina McPadden, investment manager of international concentrated growth strategy at Baillie Gifford, discusses where Nvidia sits in the global chip ecosystem and why US-based AI researchers and companies still have a leg up for the long-term over China, while still seeing a \"rich hunting ground\" for AI investment outside of the US. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "score": 11.0,
+    "source_count": 1,
+    "sources": [
+      "Bloomberg Technology"
+    ],
+    "source_links": [
+      {
+        "name": "Bloomberg Technology",
+        "url": "https://www.bloomberg.com/news/videos/2026-05-20/china-chips-still-behind-us-nvidia-baillie-gifford-video"
+      }
+    ],
+    "representative_link": "https://www.bloomberg.com/news/videos/2026-05-20/china-chips-still-behind-us-nvidia-baillie-gifford-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-20/china-chips-still-behind-us-nvidia-baillie-gifford-video",
+    "published_at": "Wed, 20 May 2026 20:12:08 GMT",
+    "title_zh": "China Chips Still Behind US, Nvidia in Performance: Baillie Gifford"
+  },
+  {
     "title": "Nvidia Supplier SK Hynix Posts Record Profit on AI Boom",
     "title_en": "Nvidia Supplier SK Hynix Posts Record Profit on AI Boom",
     "summary": "The South Korean memory-chip maker reported record quarterly and annual results after stronger-than-expected earnings for the final quarter of 2024 on robust chip demand.",
@@ -60,9 +80,9 @@
     "title_zh": "NVIDIA CEO Jensen Huang at Dell Technologies World: âDemand Is Going Parabolic, Utterly Parabolicâ"
   },
   {
-    "title": "Analog Devices to Acquire Empower in $1.5 Billion Transaction",
-    "title_en": "Analog Devices to Acquire Empower in $1.5 Billion Transaction",
-    "summary": "Analog Devices Inc. agreed to acquire closely held Empower Semiconductor for $1.5 billion in cash as the need skyrockets for efficient chips to power data centers required for artificial intelligence.",
+    "title": "Nvidia Gives Lackluster Forecast as Chip Competition Mounts",
+    "title_en": "Nvidia Gives Lackluster Forecast as Chip Competition Mounts",
+    "summary": "Nvidia, the world’s most valuable company, disappointed investors with its latest sales forecast, adding to concerns about growing competition in the AI chip industry. Bloomberg's Ed Ludlow joins to discuss. (Source: Bloomberg)",
     "score": 11.0,
     "source_count": 1,
     "sources": [
@@ -71,13 +91,13 @@
     "source_links": [
       {
         "name": "Bloomberg Technology",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-19/analog-devices-to-acquire-empower-in-1-5-billion-transaction"
+        "url": "https://www.bloomberg.com/news/videos/2026-05-20/nvidia-gives-lackluster-forecast-video"
       }
     ],
-    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-19/analog-devices-to-acquire-empower-in-1-5-billion-transaction",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/analog-devices-to-acquire-empower-in-1-5-billion-transaction",
-    "published_at": "Tue, 19 May 2026 20:56:57 GMT",
-    "title_zh": "Analog Devices to Acquire Empower in $1.5 Billion Transaction"
+    "representative_link": "https://www.bloomberg.com/news/videos/2026-05-20/nvidia-gives-lackluster-forecast-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-20/nvidia-gives-lackluster-forecast-video",
+    "published_at": "Wed, 20 May 2026 20:45:23 GMT",
+    "title_zh": "Nvidia Gives Lackluster Forecast as Chip Competition Mounts"
   },
   {
     "title": "The stock market that outpaced Nasdaq’s dotcom-era gains",
@@ -100,9 +120,29 @@
     "title_zh": "The stock market that outpaced Nasdaq’s dotcom-era gains"
   },
   {
-    "title": "Google to release smart glasses and add AI ‘agents’ to search engine",
-    "title_en": "Google to release smart glasses and add AI ‘agents’ to search engine",
-    "summary": "CEO Sundar Pichai says features powered by new Gemini model will close gap with Anthropic and OpenAI",
+    "title": "Nvidia Earnings in Focus; SpaceX Eyes Historic IPO | Bloomberg Tech 5/20/2026",
+    "title_en": "Nvidia Earnings in Focus; SpaceX Eyes Historic IPO | Bloomberg Tech 5/20/2026",
+    "summary": "Bloomberg’s Ed Ludlow breaks down what to expect from Nvidia's earnings report, as investors anxiously await for the world’s most valuable company to show whether it can continue delivering the explosive growth fueling the AI boom. Plus, SpaceX inches closer to launch with an imminent IPO filing. And, a deep dive into SoftBank's bet on OpenAI as insiders grow worried that Masayoshi Son is too tied to the AI giant. (Source: Bloomberg)",
+    "score": 11.0,
+    "source_count": 1,
+    "sources": [
+      "Bloomberg Technology"
+    ],
+    "source_links": [
+      {
+        "name": "Bloomberg Technology",
+        "url": "https://www.bloomberg.com/news/videos/2026-05-20/bloomberg-tech-5-20-2026-video"
+      }
+    ],
+    "representative_link": "https://www.bloomberg.com/news/videos/2026-05-20/bloomberg-tech-5-20-2026-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-20/bloomberg-tech-5-20-2026-video",
+    "published_at": "Wed, 20 May 2026 20:10:36 GMT",
+    "title_zh": "Nvidia Earnings in Focus; SpaceX Eyes Historic IPO | Bloomberg Tech 5/20/2026"
+  },
+  {
+    "title": "Samsung reaches last-minute deal to avert strike over AI riches",
+    "title_en": "Samsung reaches last-minute deal to avert strike over AI riches",
+    "summary": "Work stoppage had threatened to disrupt Korean economy and global artificial intelligence boom",
     "score": 11.0,
     "source_count": 1,
     "sources": [
@@ -111,18 +151,18 @@
     "source_links": [
       {
         "name": "Financial Times - Technology",
-        "url": "https://www.ft.com/content/c47ab51e-2521-4ccb-9de5-a2b03791981a"
+        "url": "https://www.ft.com/content/84b4ba01-3273-4d84-b794-23affedee710"
       }
     ],
-    "representative_link": "https://www.ft.com/content/c47ab51e-2521-4ccb-9de5-a2b03791981a",
-    "url": "https://www.ft.com/content/c47ab51e-2521-4ccb-9de5-a2b03791981a",
-    "published_at": "Tue, 19 May 2026 20:47:04 GMT",
-    "title_zh": "Google to release smart glasses and add AI ‘agents’ to search engine"
+    "representative_link": "https://www.ft.com/content/84b4ba01-3273-4d84-b794-23affedee710",
+    "url": "https://www.ft.com/content/84b4ba01-3273-4d84-b794-23affedee710",
+    "published_at": "Thu, 21 May 2026 03:01:39 GMT",
+    "title_zh": "Samsung reaches last-minute deal to avert strike over AI riches"
   },
   {
-    "title": "Alibaba Unveils New AI Chip for Training and Inferencing",
-    "title_en": "Alibaba Unveils New AI Chip for Training and Inferencing",
-    "summary": "Alibaba Group Holding Ltd. added a new processor to its expanding AI technology stack, enhancing a push to cover every aspect of artificial intelligence development.",
+    "title": "Nvidia Tells Skeptical Investors AI Is Ready to Go Mainstream",
+    "title_en": "Nvidia Tells Skeptical Investors AI Is Ready to Go Mainstream",
+    "summary": "Nvidia Corp., facing more investor skepticism, used its latest quarterly report to tout progress in diversifying the company, which aims to rely less on the giant data center operators that have fueled its runaway growth.",
     "score": 11.0,
     "source_count": 1,
     "sources": [
@@ -131,18 +171,18 @@
     "source_links": [
       {
         "name": "Bloomberg Technology",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-20/alibaba-unveils-new-ai-chip-for-training-and-inferencing"
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/nvidia-gives-disappointing-forecast-as-chip-competition-mounts"
       }
     ],
-    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-20/alibaba-unveils-new-ai-chip-for-training-and-inferencing",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-20/alibaba-unveils-new-ai-chip-for-training-and-inferencing",
-    "published_at": "Wed, 20 May 2026 03:43:07 GMT",
-    "title_zh": "Alibaba Unveils New AI Chip for Training and Inferencing"
+    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-20/nvidia-gives-disappointing-forecast-as-chip-competition-mounts",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/nvidia-gives-disappointing-forecast-as-chip-competition-mounts",
+    "published_at": "Wed, 20 May 2026 20:23:51 GMT",
+    "title_zh": "Nvidia Tells Skeptical Investors AI Is Ready to Go Mainstream"
   },
   {
-    "title": "Wall Street prepares for boom in tech IPOs after Cerebras’ success",
-    "title_en": "Wall Street prepares for boom in tech IPOs after Cerebras’ success",
-    "summary": "Chip designer’s $6.4bn raise signals demand ahead of huge listings expected from SpaceX, OpenAI and Anthropic",
+    "title": "Anthropic on track for first profitable quarter",
+    "title_en": "Anthropic on track for first profitable quarter",
+    "summary": "AI lab set to hit milestone ahead of competitors OpenAI and xAI",
     "score": 11.0,
     "source_count": 1,
     "sources": [
@@ -151,52 +191,12 @@
     "source_links": [
       {
         "name": "Financial Times - Technology",
-        "url": "https://www.ft.com/content/b839fea1-8563-4a34-b8f0-1c735f23467f"
+        "url": "https://www.ft.com/content/a67248e7-f819-4dba-b0f7-3847df0a75f3"
       }
     ],
-    "representative_link": "https://www.ft.com/content/b839fea1-8563-4a34-b8f0-1c735f23467f",
-    "url": "https://www.ft.com/content/b839fea1-8563-4a34-b8f0-1c735f23467f",
-    "published_at": "Tue, 19 May 2026 19:07:47 GMT",
-    "title_zh": "Wall Street prepares for boom in tech IPOs after Cerebras’ success"
-  },
-  {
-    "title": "OpenAI Commits $234 Million for New AI Lab in Singapore",
-    "title_en": "OpenAI Commits $234 Million for New AI Lab in Singapore",
-    "summary": "OpenAI Inc. is setting up an AI lab in Singapore through a multiyear partnership with the local government, part of a broader effort to support the city-state’s artificial intelligence ambitions.",
-    "score": 11.0,
-    "source_count": 1,
-    "sources": [
-      "Bloomberg Technology"
-    ],
-    "source_links": [
-      {
-        "name": "Bloomberg Technology",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore"
-      }
-    ],
-    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore",
-    "published_at": "Wed, 20 May 2026 03:30:00 GMT",
-    "title_zh": "OpenAI Commits $234 Million for New AI Lab in Singapore"
-  },
-  {
-    "title": "Samsung Faces Risk of Chip Disruption After Labor Talks Fail",
-    "title_en": "Samsung Faces Risk of Chip Disruption After Labor Talks Fail",
-    "summary": "Talks between Samsung Electronics Co. and its largest labor union broke down, raising the prospect of a workers’ strike that may disrupt operations at the world’s largest memory chipmaker.",
-    "score": 11.0,
-    "source_count": 1,
-    "sources": [
-      "Bloomberg Technology"
-    ],
-    "source_links": [
-      {
-        "name": "Bloomberg Technology",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-20/samsung-faces-risk-of-chip-disruption-after-labor-talks-collapse"
-      }
-    ],
-    "representative_link": "https://www.bloomberg.com/news/articles/2026-05-20/samsung-faces-risk-of-chip-disruption-after-labor-talks-collapse",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-20/samsung-faces-risk-of-chip-disruption-after-labor-talks-collapse",
-    "published_at": "Wed, 20 May 2026 02:44:21 GMT",
-    "title_zh": "Samsung Faces Risk of Chip Disruption After Labor Talks Fail"
+    "representative_link": "https://www.ft.com/content/a67248e7-f819-4dba-b0f7-3847df0a75f3",
+    "url": "https://www.ft.com/content/a67248e7-f819-4dba-b0f7-3847df0a75f3",
+    "published_at": "Thu, 21 May 2026 00:23:17 GMT",
+    "title_zh": "Anthropic on track for first profitable quarter"
   }
 ]
